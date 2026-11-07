@@ -2642,7 +2642,7 @@
       }, 200);
     }
 
-    syncModalBtn.addEventListener('click', openSyncModal);
+    if (syncModalBtn) { syncModalBtn.addEventListener('click', openSyncModal); closeSyncBtn.addEventListener('click', closeSyncModal); okSyncBtn.addEventListener('click', closeSyncModal); syncModal.addEventListener('click', (e) => { if (e.target === syncModal) closeSyncModal(); }); }
     closeSyncBtn.addEventListener('click', closeSyncModal);
     okSyncBtn.addEventListener('click', closeSyncModal);
     syncModal.addEventListener('click', (e) => {
