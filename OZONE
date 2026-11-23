@@ -1,0 +1,1893 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl"><head>
+
+    
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>دليل عيادات ومراكز أوزون الطبي | Ozone Medical Directory</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Cairo', 'Segoe UI', Tahoma, sans-serif;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .hide-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .hide-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+    .glass-header {
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+  </style>
+<style>*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }/* ! tailwindcss v3.4.17 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:Cairo, Segoe UI, Tahoma, sans-serif;font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-feature-settings:normal;font-variation-settings:normal;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]:where(:not([hidden=until-found])){display:none}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0}.pointer-events-none{pointer-events:none}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.sticky{position:sticky}.inset-0{inset:0px}.inset-y-0{top:0px;bottom:0px}.-bottom-1{bottom:-0.25rem}.-left-1{left:-0.25rem}.bottom-6{bottom:1.5rem}.left-0{left:0px}.left-1\/2{left:50%}.left-4{left:1rem}.right-0{right:0px}.top-0{top:0px}.top-4{top:1rem}.z-0{z-index:0}.z-10{z-index:10}.z-40{z-index:40}.z-50{z-index:50}.mx-auto{margin-left:auto;margin-right:auto}.mb-1{margin-bottom:0.25rem}.mb-2{margin-bottom:0.5rem}.mb-3{margin-bottom:0.75rem}.mb-4{margin-bottom:1rem}.mb-5{margin-bottom:1.25rem}.ml-1{margin-left:0.25rem}.mt-0\.5{margin-top:0.125rem}.mt-1{margin-top:0.25rem}.mt-12{margin-top:3rem}.mt-2{margin-top:0.5rem}.mt-3{margin-top:0.75rem}.mt-4{margin-top:1rem}.mt-5{margin-top:1.25rem}.mt-8{margin-top:2rem}.mt-2\.5{margin-top:0.625rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-12{height:3rem}.h-14{height:3.5rem}.h-16{height:4rem}.h-28{height:7rem}.h-3{height:0.75rem}.h-4{height:1rem}.h-44{height:11rem}.h-5{height:1.25rem}.h-7{height:1.75rem}.h-8{height:2rem}.h-9{height:2.25rem}.h-full{height:100%}.h-3\.5{height:0.875rem}.max-h-\[90vh\]{max-height:90vh}.min-h-screen{min-height:100vh}.w-16{width:4rem}.w-24{width:6rem}.w-3{width:0.75rem}.w-4{width:1rem}.w-44{width:11rem}.w-5{width:1.25rem}.w-7{width:1.75rem}.w-8{width:2rem}.w-9{width:2.25rem}.w-auto{width:auto}.w-full{width:100%}.w-3\.5{width:0.875rem}.max-w-2xl{max-width:42rem}.max-w-6xl{max-width:72rem}.max-w-lg{max-width:32rem}.max-w-sm{max-width:24rem}.flex-1{flex:1 1 0%}.shrink-0{flex-shrink:0}.-translate-x-1\/2{--tw-translate-x:-50%;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-95{--tw-scale-x:.95;--tw-scale-y:.95;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.transform{transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cursor-pointer{cursor:pointer}.select-none{-webkit-user-select:none;user-select:none}.list-inside{list-style-position:inside}.list-decimal{list-style-type:decimal}.list-disc{list-style-type:disc}.grid-cols-1{grid-template-columns:repeat(1, minmax(0, 1fr))}.grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-start{align-items:flex-start}.items-end{align-items:flex-end}.items-center{align-items:center}.justify-end{justify-content:flex-end}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-1\.5{gap:0.375rem}.gap-2{gap:0.5rem}.gap-2\.5{gap:0.625rem}.gap-3{gap:0.75rem}.gap-4{gap:1rem}.gap-6{gap:1.5rem}.gap-1{gap:0.25rem}.space-y-0\.5 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(0.125rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(0.125rem * var(--tw-space-y-reverse))}.space-y-2 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(0.5rem * var(--tw-space-y-reverse))}.space-y-4 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}.space-y-5 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1.25rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1.25rem * var(--tw-space-y-reverse))}.overflow-hidden{overflow:hidden}.overflow-x-auto{overflow-x:auto}.overflow-y-auto{overflow-y:auto}.whitespace-nowrap{white-space:nowrap}.rounded{border-radius:0.25rem}.rounded-2xl{border-radius:1rem}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:0.5rem}.rounded-md{border-radius:0.375rem}.rounded-xl{border-radius:0.75rem}.border{border-width:1px}.border-2{border-width:2px}.border-b{border-bottom-width:1px}.border-t{border-top-width:1px}.border-amber-200\/70{border-color:rgb(253 230 138 / 0.7)}.border-emerald-100{--tw-border-opacity:1;border-color:rgb(209 250 229 / var(--tw-border-opacity, 1))}.border-emerald-200{--tw-border-opacity:1;border-color:rgb(167 243 208 / var(--tw-border-opacity, 1))}.border-emerald-400\/40{border-color:rgb(52 211 153 / 0.4)}.border-emerald-500\/30{border-color:rgb(16 185 129 / 0.3)}.border-slate-100{--tw-border-opacity:1;border-color:rgb(241 245 249 / var(--tw-border-opacity, 1))}.border-slate-200{--tw-border-opacity:1;border-color:rgb(226 232 240 / var(--tw-border-opacity, 1))}.border-slate-200\/80{border-color:rgb(226 232 240 / 0.8)}.border-slate-300{--tw-border-opacity:1;border-color:rgb(203 213 225 / var(--tw-border-opacity, 1))}.border-slate-700{--tw-border-opacity:1;border-color:rgb(51 65 85 / var(--tw-border-opacity, 1))}.border-teal-200{--tw-border-opacity:1;border-color:rgb(153 246 228 / var(--tw-border-opacity, 1))}.border-teal-400\/40{border-color:rgb(45 212 191 / 0.4)}.border-white\/10{border-color:rgb(255 255 255 / 0.1)}.border-blue-200{--tw-border-opacity:1;border-color:rgb(191 219 254 / var(--tw-border-opacity, 1))}.border-slate-200\/90{border-color:rgb(226 232 240 / 0.9)}.bg-amber-100{--tw-bg-opacity:1;background-color:rgb(254 243 199 / var(--tw-bg-opacity, 1))}.bg-amber-50\/60{background-color:rgb(255 251 235 / 0.6)}.bg-emerald-100{--tw-bg-opacity:1;background-color:rgb(209 250 229 / var(--tw-bg-opacity, 1))}.bg-emerald-50{--tw-bg-opacity:1;background-color:rgb(236 253 245 / var(--tw-bg-opacity, 1))}.bg-emerald-50\/70{background-color:rgb(236 253 245 / 0.7)}.bg-emerald-500{--tw-bg-opacity:1;background-color:rgb(16 185 129 / var(--tw-bg-opacity, 1))}.bg-emerald-600{--tw-bg-opacity:1;background-color:rgb(5 150 105 / var(--tw-bg-opacity, 1))}.bg-rose-500{--tw-bg-opacity:1;background-color:rgb(244 63 94 / var(--tw-bg-opacity, 1))}.bg-slate-100{--tw-bg-opacity:1;background-color:rgb(241 245 249 / var(--tw-bg-opacity, 1))}.bg-slate-200{--tw-bg-opacity:1;background-color:rgb(226 232 240 / var(--tw-bg-opacity, 1))}.bg-slate-50{--tw-bg-opacity:1;background-color:rgb(248 250 252 / var(--tw-bg-opacity, 1))}.bg-slate-900{--tw-bg-opacity:1;background-color:rgb(15 23 42 / var(--tw-bg-opacity, 1))}.bg-slate-900\/60{background-color:rgb(15 23 42 / 0.6)}.bg-slate-900\/70{background-color:rgb(15 23 42 / 0.7)}.bg-teal-50{--tw-bg-opacity:1;background-color:rgb(240 253 250 / var(--tw-bg-opacity, 1))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1))}.bg-white\/10{background-color:rgb(255 255 255 / 0.1)}.bg-white\/20{background-color:rgb(255 255 255 / 0.2)}.bg-white\/95{background-color:rgb(255 255 255 / 0.95)}.bg-blue-100{--tw-bg-opacity:1;background-color:rgb(219 234 254 / var(--tw-bg-opacity, 1))}.bg-gradient-to-b{background-image:linear-gradient(to bottom, var(--tw-gradient-stops))}.bg-gradient-to-l{background-image:linear-gradient(to left, var(--tw-gradient-stops))}.bg-gradient-to-r{background-image:linear-gradient(to right, var(--tw-gradient-stops))}.bg-gradient-to-t{background-image:linear-gradient(to top, var(--tw-gradient-stops))}.from-slate-900{--tw-gradient-from:#0f172a var(--tw-gradient-from-position);--tw-gradient-to:rgb(15 23 42 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.from-slate-900\/50{--tw-gradient-from:rgb(15 23 42 / 0.5) var(--tw-gradient-from-position);--tw-gradient-to:rgb(15 23 42 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.from-slate-900\/70{--tw-gradient-from:rgb(15 23 42 / 0.7) var(--tw-gradient-from-position);--tw-gradient-to:rgb(15 23 42 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.from-slate-950\/90{--tw-gradient-from:rgb(2 6 23 / 0.9) var(--tw-gradient-from-position);--tw-gradient-to:rgb(2 6 23 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.from-teal-600{--tw-gradient-from:#0d9488 var(--tw-gradient-from-position);--tw-gradient-to:rgb(13 148 136 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.via-slate-50\/85{--tw-gradient-to:rgb(248 250 252 / 0)  var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), rgb(248 250 252 / 0.85) var(--tw-gradient-via-position), var(--tw-gradient-to)}.via-slate-900\/75{--tw-gradient-to:rgb(15 23 42 / 0)  var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), rgb(15 23 42 / 0.75) var(--tw-gradient-via-position), var(--tw-gradient-to)}.to-emerald-600{--tw-gradient-to:#059669 var(--tw-gradient-to-position)}.to-slate-100\/90{--tw-gradient-to:rgb(241 245 249 / 0.9) var(--tw-gradient-to-position)}.to-slate-800{--tw-gradient-to:#1e293b var(--tw-gradient-to-position)}.to-slate-900\/40{--tw-gradient-to:rgb(15 23 42 / 0.4) var(--tw-gradient-to-position)}.to-transparent{--tw-gradient-to:transparent var(--tw-gradient-to-position)}.object-contain{object-fit:contain}.object-cover{object-fit:cover}.object-center{object-position:center}.p-0\.5{padding:0.125rem}.p-1{padding:0.25rem}.p-1\.5{padding:0.375rem}.p-2{padding:0.5rem}.p-2\.5{padding:0.625rem}.p-3{padding:0.75rem}.p-3\.5{padding:0.875rem}.p-4{padding:1rem}.p-5{padding:1.25rem}.p-6{padding:1.5rem}.px-1{padding-left:0.25rem;padding-right:0.25rem}.px-2{padding-left:0.5rem;padding-right:0.5rem}.px-2\.5{padding-left:0.625rem;padding-right:0.625rem}.px-3{padding-left:0.75rem;padding-right:0.75rem}.px-3\.5{padding-left:0.875rem;padding-right:0.875rem}.px-4{padding-left:1rem;padding-right:1rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.py-0\.5{padding-top:0.125rem;padding-bottom:0.125rem}.py-1{padding-top:0.25rem;padding-bottom:0.25rem}.py-1\.5{padding-top:0.375rem;padding-bottom:0.375rem}.py-16{padding-top:4rem;padding-bottom:4rem}.py-2{padding-top:0.5rem;padding-bottom:0.5rem}.py-2\.5{padding-top:0.625rem;padding-bottom:0.625rem}.py-3{padding-top:0.75rem;padding-bottom:0.75rem}.py-3\.5{padding-top:0.875rem;padding-bottom:0.875rem}.py-6{padding-top:1.5rem;padding-bottom:1.5rem}.py-9{padding-top:2.25rem;padding-bottom:2.25rem}.pb-1{padding-bottom:0.25rem}.pb-3{padding-bottom:0.75rem}.pl-10{padding-left:2.5rem}.pl-3\.5{padding-left:0.875rem}.pr-12{padding-right:3rem}.pr-4{padding-right:1rem}.pt-2{padding-top:0.5rem}.pt-3{padding-top:0.75rem}.text-center{text-align:center}.text-2xl{font-size:1.5rem;line-height:2rem}.text-\[10px\]{font-size:10px}.text-\[11px\]{font-size:11px}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:0.75rem;line-height:1rem}.font-black{font-weight:900}.font-bold{font-weight:700}.font-extrabold{font-weight:800}.font-medium{font-weight:500}.font-normal{font-weight:400}.font-semibold{font-weight:600}.leading-relaxed{line-height:1.625}.leading-tight{line-height:1.25}.leading-snug{line-height:1.375}.tracking-tight{letter-spacing:-0.025em}.text-amber-700{--tw-text-opacity:1;color:rgb(180 83 9 / var(--tw-text-opacity, 1))}.text-amber-800{--tw-text-opacity:1;color:rgb(146 64 14 / var(--tw-text-opacity, 1))}.text-amber-900{--tw-text-opacity:1;color:rgb(120 53 15 / var(--tw-text-opacity, 1))}.text-cyan-300{--tw-text-opacity:1;color:rgb(103 232 249 / var(--tw-text-opacity, 1))}.text-emerald-300{--tw-text-opacity:1;color:rgb(110 231 183 / var(--tw-text-opacity, 1))}.text-emerald-400{--tw-text-opacity:1;color:rgb(52 211 153 / var(--tw-text-opacity, 1))}.text-emerald-600{--tw-text-opacity:1;color:rgb(5 150 105 / var(--tw-text-opacity, 1))}.text-emerald-700{--tw-text-opacity:1;color:rgb(4 120 87 / var(--tw-text-opacity, 1))}.text-emerald-800{--tw-text-opacity:1;color:rgb(6 95 70 / var(--tw-text-opacity, 1))}.text-emerald-900{--tw-text-opacity:1;color:rgb(6 78 59 / var(--tw-text-opacity, 1))}.text-rose-500{--tw-text-opacity:1;color:rgb(244 63 94 / var(--tw-text-opacity, 1))}.text-rose-600{--tw-text-opacity:1;color:rgb(225 29 72 / var(--tw-text-opacity, 1))}.text-slate-300{--tw-text-opacity:1;color:rgb(203 213 225 / var(--tw-text-opacity, 1))}.text-slate-400{--tw-text-opacity:1;color:rgb(148 163 184 / var(--tw-text-opacity, 1))}.text-slate-500{--tw-text-opacity:1;color:rgb(100 116 139 / var(--tw-text-opacity, 1))}.text-slate-600{--tw-text-opacity:1;color:rgb(71 85 105 / var(--tw-text-opacity, 1))}.text-slate-700{--tw-text-opacity:1;color:rgb(51 65 85 / var(--tw-text-opacity, 1))}.text-slate-800{--tw-text-opacity:1;color:rgb(30 41 59 / var(--tw-text-opacity, 1))}.text-slate-900{--tw-text-opacity:1;color:rgb(15 23 42 / var(--tw-text-opacity, 1))}.text-teal-300{--tw-text-opacity:1;color:rgb(94 234 212 / var(--tw-text-opacity, 1))}.text-teal-700{--tw-text-opacity:1;color:rgb(15 118 110 / var(--tw-text-opacity, 1))}.text-teal-800{--tw-text-opacity:1;color:rgb(17 94 89 / var(--tw-text-opacity, 1))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.text-blue-800{--tw-text-opacity:1;color:rgb(30 64 175 / var(--tw-text-opacity, 1))}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.accent-emerald-600{accent-color:#059669}.opacity-0{opacity:0}.opacity-30{opacity:0.3}.opacity-55{opacity:0.55}.shadow-2xl{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-lg{--tw-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 rgb(0 0 0 / 0.05);--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-emerald-600\/20{--tw-shadow-color:rgb(5 150 105 / 0.2);--tw-shadow:var(--tw-shadow-colored)}.outline-none{outline:2px solid transparent;outline-offset:2px}.backdrop-blur-md{--tw-backdrop-blur:blur(12px);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.backdrop-blur-sm{--tw-backdrop-blur:blur(4px);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.transition-opacity{transition-property:opacity;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.transition-colors{transition-property:color, background-color, border-color, fill, stroke, -webkit-text-decoration-color;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.duration-200{transition-duration:200ms}.duration-300{transition-duration:300ms}.duration-500{transition-duration:500ms}.duration-700{transition-duration:700ms}.selection\:bg-emerald-500 *::selection{--tw-bg-opacity:1;background-color:rgb(16 185 129 / var(--tw-bg-opacity, 1))}.selection\:text-white *::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.selection\:bg-emerald-500::selection{--tw-bg-opacity:1;background-color:rgb(16 185 129 / var(--tw-bg-opacity, 1))}.selection\:text-white::selection{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.after\:absolute::after{content:var(--tw-content);position:absolute}.after\:start-\[2px\]::after{content:var(--tw-content);inset-inline-start:2px}.after\:top-\[2px\]::after{content:var(--tw-content);top:2px}.after\:h-4::after{content:var(--tw-content);height:1rem}.after\:w-4::after{content:var(--tw-content);width:1rem}.after\:rounded-full::after{content:var(--tw-content);border-radius:9999px}.after\:border::after{content:var(--tw-content);border-width:1px}.after\:border-slate-300::after{content:var(--tw-content);--tw-border-opacity:1;border-color:rgb(203 213 225 / var(--tw-border-opacity, 1))}.after\:bg-white::after{content:var(--tw-content);--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1))}.after\:transition-all::after{content:var(--tw-content);transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.after\:content-\[\'\'\]::after{--tw-content:'';content:var(--tw-content)}.hover\:border-emerald-200:hover{--tw-border-opacity:1;border-color:rgb(167 243 208 / var(--tw-border-opacity, 1))}.hover\:border-emerald-500:hover{--tw-border-opacity:1;border-color:rgb(16 185 129 / var(--tw-border-opacity, 1))}.hover\:border-rose-200:hover{--tw-border-opacity:1;border-color:rgb(254 205 211 / var(--tw-border-opacity, 1))}.hover\:bg-emerald-100:hover{--tw-bg-opacity:1;background-color:rgb(209 250 229 / var(--tw-bg-opacity, 1))}.hover\:bg-emerald-50:hover{--tw-bg-opacity:1;background-color:rgb(236 253 245 / var(--tw-bg-opacity, 1))}.hover\:bg-emerald-700:hover{--tw-bg-opacity:1;background-color:rgb(4 120 87 / var(--tw-bg-opacity, 1))}.hover\:bg-rose-50:hover{--tw-bg-opacity:1;background-color:rgb(255 241 242 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-200:hover{--tw-bg-opacity:1;background-color:rgb(226 232 240 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-300:hover{--tw-bg-opacity:1;background-color:rgb(203 213 225 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-800:hover{--tw-bg-opacity:1;background-color:rgb(30 41 59 / var(--tw-bg-opacity, 1))}.hover\:bg-teal-700:hover{--tw-bg-opacity:1;background-color:rgb(15 118 110 / var(--tw-bg-opacity, 1))}.hover\:bg-white\/10:hover{background-color:rgb(255 255 255 / 0.1)}.hover\:bg-emerald-600:hover{--tw-bg-opacity:1;background-color:rgb(5 150 105 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-100:hover{--tw-bg-opacity:1;background-color:rgb(241 245 249 / var(--tw-bg-opacity, 1))}.hover\:from-teal-700:hover{--tw-gradient-from:#0f766e var(--tw-gradient-from-position);--tw-gradient-to:rgb(15 118 110 / 0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to)}.hover\:to-emerald-700:hover{--tw-gradient-to:#047857 var(--tw-gradient-to-position)}.hover\:text-emerald-700:hover{--tw-text-opacity:1;color:rgb(4 120 87 / var(--tw-text-opacity, 1))}.hover\:text-rose-600:hover{--tw-text-opacity:1;color:rgb(225 29 72 / var(--tw-text-opacity, 1))}.hover\:text-slate-600:hover{--tw-text-opacity:1;color:rgb(71 85 105 / var(--tw-text-opacity, 1))}.hover\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.hover\:text-rose-500:hover{--tw-text-opacity:1;color:rgb(244 63 94 / var(--tw-text-opacity, 1))}.hover\:underline:hover{-webkit-text-decoration-line:underline;text-decoration-line:underline}.hover\:shadow-md:hover{--tw-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.focus\:border-emerald-500:focus{--tw-border-opacity:1;border-color:rgb(16 185 129 / var(--tw-border-opacity, 1))}.focus\:bg-white:focus{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1))}.focus\:ring-4:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000)}.focus\:ring-emerald-500\/10:focus{--tw-ring-color:rgb(16 185 129 / 0.1)}.group:hover .group-hover\:scale-110{--tw-scale-x:1.1;--tw-scale-y:1.1;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.group:hover .group-hover\:text-emerald-700{--tw-text-opacity:1;color:rgb(4 120 87 / var(--tw-text-opacity, 1))}.peer:checked ~ .peer-checked\:bg-emerald-600{--tw-bg-opacity:1;background-color:rgb(5 150 105 / var(--tw-bg-opacity, 1))}.peer:checked ~ .peer-checked\:after\:translate-x-full::after{content:var(--tw-content);--tw-translate-x:100%;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.peer:checked ~ .peer-checked\:after\:border-white::after{content:var(--tw-content);--tw-border-opacity:1;border-color:rgb(255 255 255 / var(--tw-border-opacity, 1))}.peer:focus ~ .peer-focus\:outline-none{outline:2px solid transparent;outline-offset:2px}@media (min-width: 640px){.sm\:inline{display:inline}.sm\:w-64{width:16rem}.sm\:grid-cols-4{grid-template-columns:repeat(4, minmax(0, 1fr))}.sm\:py-12{padding-top:3rem;padding-bottom:3rem}.sm\:text-2xl{font-size:1.5rem;line-height:2rem}.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem}.sm\:text-base{font-size:1rem;line-height:1.5rem}.sm\:text-lg{font-size:1.125rem;line-height:1.75rem}}@media (min-width: 768px){.md\:mx-0{margin-left:0px;margin-right:0px}.md\:inline{display:inline}.md\:grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}.md\:flex-row{flex-direction:row}.md\:items-center{align-items:center}.md\:text-4xl{font-size:2.25rem;line-height:2.5rem}}@media (min-width: 1024px){.lg\:grid-cols-3{grid-template-columns:repeat(3, minmax(0, 1fr))}}.peer:checked ~ .rtl\:peer-checked\:after\:-translate-x-full:where([dir="rtl"], [dir="rtl"] *)::after{content:var(--tw-content);--tw-translate-x:-100%;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}</style>
+<style id="ozone-language-styles">
+  html[dir="ltr"] #searchInput { text-align:left; padding-left:3rem; padding-right:2.5rem; }
+  html[dir="ltr"] #clearSearchBtn { left:auto; right:0; padding-left:0; padding-right:0.875rem; }
+  html[dir="ltr"] #searchInput::placeholder { text-align:left; }
+  html[dir="ltr"] .clinic-text-source { unicode-bidi:plaintext; }
+  #languageToggleBtn { white-space:nowrap; }
+</style>
+</head>
+<body class="bg-slate-900 text-slate-800 antialiased min-h-screen flex flex-col selection:bg-emerald-500 selection:text-white relative">
+
+  <!-- Full-Page Mall Exterior Background Layer -->
+  <div class="fixed inset-0 z-0 pointer-events-none overflow-hidden">
+    <img id="pageBgImage" src="assets/image-01-f8911c04a565.jpg" alt="واجهة مول أوزون الطبي" class="w-full h-full object-cover opacity-30 scale-100 transition-all duration-500">
+    <div id="pageBgOverlay" class="absolute inset-0 bg-gradient-to-b from-slate-900/50 via-slate-50/85 to-slate-100/90"></div>
+  </div>
+
+  <!-- Top Sticky Navigation Bar -->
+  <header class="sticky top-0 z-40 bg-white/95 border-b border-slate-200 shadow-sm glass-header">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+      
+      <!-- Logo & Title -->
+      <div class="flex items-center gap-3">
+        <div class="relative group" id="headerLogoTrigger" title="شعار أوزون الطبي">
+          <img id="appLogoImg" src="assets/image-02-2cf9e7f530aa.png" alt="OZONE Healthcare District Logo" class="h-12 w-auto px-2 py-1 rounded-xl object-contain border border-emerald-500/30 shadow-sm bg-white">
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <h1 id="appTitleText" class="text-base sm:text-lg font-extrabold text-slate-900 tracking-tight leading-tight">مول أوزون الطبي • OZONE</h1>
+            <span id="ozoneLiveBadge" class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-amber-100 text-amber-800" title="حالة مزامنة الدليل">
+              التحقق من الاتصال…
+            </span>
+          </div>
+          <p class="text-xs text-teal-700 font-bold">OZONE Healthcare District • دليل العيادات الذكي</p>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center gap-2">
+        
+        <button type="button" id="languageToggleBtn" class="px-3 py-2 rounded-xl border border-teal-200 text-teal-800 hover:bg-teal-50 bg-white text-xs font-extrabold transition-colors" title="Switch to English" aria-label="Switch to English">English</button>
+        <!-- Favorites Filter Button -->
+        <button id="favoritesToggleBtn" class="relative p-2 rounded-xl border border-slate-200 text-slate-600 hover:text-rose-600 hover:border-rose-200 hover:bg-rose-50 transition-all flex items-center gap-1.5 text-xs font-bold" title="العيادات المحفوظة">
+          <svg class="w-4 h-4 text-rose-500" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path>
+          </svg>
+          <span class="sm:inline">المفضلة</span>
+          <span id="favCountBadge" class="bg-rose-500 text-white text-[10px] w-4 h-4 rounded-full flex items-center justify-center font-bold">0</span>
+        </button>
+
+        <!-- Download / Install Standalone App Button -->
+        <button id="downloadAppBtn" class="hidden hidden px-3 py-2 rounded-xl bg-gradient-to-l from-teal-600 to-emerald-600 text-white hover:from-teal-700 hover:to-emerald-700 transition-all flex items-center gap-1.5 text-xs font-bold shadow-sm" title="تحميل ملف التطبيق الكامل لنشره أو تثبيته على الموبايل">
+          <svg class="hidden w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+          </svg>
+          <span>تحميل التطبيق</span>
+        </button>
+
+        <!-- Customize Logo & Background Button -->
+        <button id="brandingModalBtn" style="display:none!important" aria-hidden="true" tabindex="-1" class="hidden p-2 rounded-xl border border-emerald-200 bg-emerald-50/70 text-emerald-800 hover:bg-emerald-100 transition-all flex items-center gap-1.5 text-xs font-bold" title="تغيير اللوجو وصورة المول">
+          <svg class="hidden w-4 h-4 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+          </svg>
+          <span class="hidden md:inline">اللوجو والخلفية</span>
+        </button>
+
+        <!-- QR Code Action -->
+        <button id="qrModalBtn" class="hidden p-2 rounded-xl border border-slate-200 text-slate-600 hover:text-emerald-700 hover:border-emerald-200 hover:bg-emerald-50 transition-all flex items-center gap-1.5 text-xs font-bold" title="كود الاستجابة السريع QR">
+          <svg class="hidden w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h.01M5 8h2a1 1 0 001-1V5a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1zm12 0h2a1 1 0 001-1V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v2a1 1 0 001 1zM5 20h2a1 1 0 001-1v-2a1 1 0 00-1-1H5a1 1 0 00-1 1v2a1 1 0 001 1z"></path>
+          </svg>
+          <span class="hidden sm:inline">QR كود</span>
+        </button>
+
+        <!-- Google Sheet Sync Info Button -->
+        <button id="syncModalBtn" style="display:none!important" aria-hidden="true" tabindex="-1" class="p-2 rounded-xl bg-slate-900 text-white hover:bg-emerald-700 transition-all flex items-center gap-1.5 text-xs font-bold shadow-sm" title="ربط وتحديث الشيت">
+          <svg class="hidden w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+          </svg>
+          <span class="sm:inline">معلومات الشيت</span>
+        </button>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Hero Banner Section with Exterior Building Facade -->
+  <section class="relative z-10 bg-slate-900 text-white overflow-hidden shadow-lg border-b border-white/10">
+    <div class="absolute inset-0">
+      <img id="heroBgImage" src="assets/image-01-f8911c04a565.jpg" alt="واجهة مول أوزون الطبي من الخارج" class="w-full h-full object-cover object-center opacity-55 transition-all duration-700">
+      <div class="absolute inset-0 bg-gradient-to-l from-slate-950/90 via-slate-900/75 to-slate-900/40"></div>
+    </div>
+    <div class="relative max-w-6xl mx-auto px-4 py-9 sm:py-12 flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+      <div class="max-w-2xl">
+        <div class="inline-flex items-center gap-2.5 px-3.5 py-1.5 rounded-full bg-slate-900/70 border border-emerald-400/40 text-emerald-300 text-xs font-bold mb-4 backdrop-blur-md shadow-sm">
+          <img id="heroLogoBadge" src="assets/image-03-569f01d48e89.png" alt="OZONE Icon" class="w-5 h-5 rounded-full object-contain bg-slate-900 p-0.5">
+          <span>مول أوزون الطبي (OZONE Healthcare District) • النرجس - التجمع الخامس</span>
+        </div>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-black leading-tight mb-2 tracking-tight">
+          ابحث عن عيادتك واحجز موعدك فورياً
+        </h2>
+        <p class="text-sm sm:text-base text-slate-300 leading-relaxed font-normal mb-5">
+          دليل رقمي شامل للعيادات والمراكز الطبية المتخصصة عبر مراحل المول الأربعة، مع أرقام التواصل ومواعيد العمل المسجلة.
+        </p>
+
+        <!-- Stats Counter Badges -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-2.5 text-center">
+          <div class="bg-white/10 backdrop-blur-md rounded-xl p-2.5 border border-white/10">
+            <div class="text-xl sm:text-2xl font-black text-emerald-400" id="heroClinicsCount">0</div>
+            <div class="text-[11px] text-slate-300 font-medium">عيادة ومركز</div>
+          </div>
+          <div class="bg-white/10 backdrop-blur-md rounded-xl p-2.5 border border-white/10">
+            <div id="heroPhaseCount" class="text-xl sm:text-2xl font-black text-teal-300">0</div>
+            <div class="text-[11px] text-slate-300 font-medium">مراحل (A - B - C - D)</div>
+          </div>
+          <div class="bg-white/10 backdrop-blur-md rounded-xl p-2.5 border border-white/10">
+            <div id="heroSpecialtiesCount" class="text-xl sm:text-2xl font-black text-cyan-300">0</div>
+            <div class="text-[11px] text-slate-300 font-medium">تخصص طبي دقيق</div>
+          </div>
+          <div class="bg-white/10 backdrop-blur-md rounded-xl p-2.5 border border-white/10">
+            <div class="text-xl sm:text-2xl font-black text-emerald-300">
+</div>
+            <div class="text-xl sm:text-2xl font-black text-emerald-400">16613</div>
+            <div class="text-[11px] text-slate-300 font-medium">اتصال مباشر</div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Floating Brand Card in Hero -->
+      <div class="flex flex-col items-center bg-white/95 backdrop-blur-md border-2 border-teal-400/40 rounded-2xl p-4 text-center shadow-2xl w-full sm:w-64 shrink-0 mx-auto md:mx-0">
+        <img id="heroCardLogo" src="assets/image-02-2cf9e7f530aa.png" alt="OZONE Healthcare District" class="w-44 h-28 object-contain mb-2">
+        <span class="px-2.5 py-0.5 rounded-full bg-teal-50 text-teal-800 border border-teal-200 text-[11px] font-extrabold">مجمع العيادات والمراكز الطبية</span>
+        <button id="heroCustomizeBtn" style="display:none!important" aria-hidden="true" tabindex="-1" class="hidden mt-3 w-full py-1.5 px-3 rounded-xl bg-slate-900 hover:bg-teal-700 text-white text-[11px] font-bold transition-all shadow-sm">
+          تغيير اللوجو أو الصورة
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Search & Filter Control Center -->
+  <main class="relative z-10 flex-1 max-w-6xl w-full mx-auto px-4 py-6">
+
+    <!-- Search Input Box -->
+    <div class="bg-white rounded-2xl shadow-sm border border-slate-200/80 p-4 mb-5">
+      <div class="relative">
+        <div class="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-none text-slate-400">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+        <input type="text" id="searchInput" placeholder="ابحث بالاسم، الطبيب، التخصص، أو رقم الوحدة (مثال: AG001، أسنان، د/ نورهان)..." class="w-full pr-12 pl-10 py-3.5 bg-slate-50 focus:bg-white rounded-xl border border-slate-200 focus:border-emerald-500 focus:ring-4 focus:ring-emerald-500/10 text-sm font-semibold transition-all outline-none">
+        <button id="clearSearchBtn" class="absolute inset-y-0 left-0 pl-3.5 flex items-center text-slate-400 hover:text-slate-600 hidden" title="مسح البحث">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Phase Filter Pills -->
+      <div class="mt-4 pt-3 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
+        <div class="flex items-center gap-1.5 overflow-x-auto hide-scrollbar pb-1 text-xs">
+          <span class="text-slate-500 font-bold ml-1">المرحلة:</span>
+          <button data-phase="all" class="phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-emerald-600 text-white shadow-sm shadow-emerald-600/20">
+            كافة المراحل
+          </button>
+          <button data-phase="المرحلة A" class="phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200">
+            المرحلة A
+          </button>
+          <button data-phase="المرحلة B" class="phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200">
+            المرحلة B
+          </button>
+          <button data-phase="المرحلة C" class="phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200">
+            المرحلة C
+          </button>
+          <button data-phase="المرحلة D" class="phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200">
+            المرحلة D
+          </button>
+        </div>
+
+        <!-- Phone Only Toggle -->
+        <label class="inline-flex items-center gap-2 cursor-pointer text-xs font-bold text-slate-700 select-none">
+          <input type="checkbox" id="phoneOnlyToggle" class="sr-only peer">
+          <div class="w-9 h-5 bg-slate-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-emerald-600"></div>
+          <span>متاح هاتف حجز مباشر 📞</span>
+        </label>
+      </div>
+
+      <!-- Categories Pills Scroll -->
+      <div class="mt-3 pt-3 border-t border-slate-100">
+        <div class="flex items-center gap-2 overflow-x-auto hide-scrollbar pb-1 text-xs">
+          <span class="text-slate-500 font-bold whitespace-nowrap">التخصص:</span>
+          <div id="categoryPillsContainer" class="flex items-center gap-1.5"><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-900 text-white shadow-sm">الكل</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">أسنان</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">علاج طبيعي وتغذية</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">جلدية وتجميل</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">باطنة وقلب وكلى</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">أطفال</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">مخ وأعصاب ونفسي</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">عيون</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">عظام ومفاصل وعلاج ألم</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">نساء وتوليد</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">جراحة ومسالك</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">أشعة وتحاليل</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">أنف وأذن وحنجرة</button><button class="px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs bg-slate-100 text-slate-600 hover:bg-slate-200">مراكز واستشارات عامة</button></div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Results Status Bar -->
+    <div class="flex items-center justify-between mb-4 px-1">
+      <div class="flex flex-wrap items-center gap-2 text-sm text-slate-600 font-semibold">
+        <span>النتائج:</span>
+        <span id="resultsCount" class="px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-800 text-xs font-bold">0 عيادة</span>
+        <span id="activeFiltersSummary" class="text-xs text-slate-400 font-normal"></span>
+        <span id="dataSyncStatus" role="status" aria-live="polite" class="text-xs font-bold text-slate-500">جارٍ فحص تحديثات الشيت…</span>
+        <button type="button" id="refreshDataBtn" class="px-2 py-1 rounded-lg border border-emerald-200 bg-emerald-50 text-emerald-700 font-bold text-xs hover:bg-emerald-100 disabled:opacity-50" title="قراءة أحدث نسخة من Google Sheets">تحديث البيانات</button>
+      </div>
+
+      <!-- Sorting Select -->
+      <div class="flex items-center gap-2 text-xs">
+        <label for="sortSelect" class="text-slate-500 font-bold hidden sm:inline">الترتيب:</label>
+        <select id="sortSelect" class="bg-white border border-slate-200 text-slate-700 font-bold py-1.5 px-2.5 rounded-lg outline-none focus:border-emerald-500 text-xs">
+          <option value="default">الترتيب حسب الشيت</option>
+          <option value="name">اسم العيادة (أ-ي)</option>
+          <option value="doctor">اسم الطبيب (أ-ي)</option>
+          <option value="unit">رقم الوحدة</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Clinics Grid Container -->
+    <div id="clinicsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="hidden text-center py-16 px-4 bg-white rounded-2xl border border-slate-200 shadow-sm mt-4">
+      <div class="w-16 h-16 mx-auto mb-3 rounded-full bg-slate-100 flex items-center justify-center text-slate-400">
+        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+        </svg>
+      </div>
+      <h3 class="text-base font-bold text-slate-800 mb-1">في انتظار تحميل بيانات العيادات</h3>
+      <p class="text-xs text-slate-500 max-w-sm mx-auto mb-4">جرب البحث بكلمة أخرى، أو مسح فلاتر التخصص والمرحلة لعرض كافة العيادات.</p>
+      <button id="resetFiltersBtn" class="px-4 py-2 rounded-xl bg-emerald-600 text-white font-bold text-xs hover:bg-emerald-700 transition-all shadow-sm">
+        إعادة تعيين الفلاتر
+      </button>
+    </div>
+
+    <!-- Pagination / Load More Button -->
+    <div id="loadMoreContainer" class="mt-8 text-center">
+      <button id="loadMoreBtn" class="px-6 py-2.5 bg-white border border-slate-200 hover:border-emerald-500 hover:bg-emerald-50 text-slate-700 font-bold rounded-xl text-xs transition-all shadow-sm">
+        عرض المزيد من العيادات
+      </button>
+      <p id="showingStatus" class="text-xs text-slate-400 mt-2 font-medium">يتم عرض 24 من أصل 260 عيادة مطابقة</p>
+    </div>
+
+  </main>
+
+  <!-- Clinic Details Modal -->
+  <div id="clinicModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm hidden opacity-0 transition-opacity duration-200">
+    <div class="bg-white rounded-2xl shadow-xl max-w-lg w-full overflow-hidden border border-slate-200 transform scale-95 transition-transform duration-200">
+      
+      <!-- Modal Header -->
+      <div class="bg-gradient-to-r from-slate-900 to-slate-800 text-white p-5 relative">
+        <button id="closeModalBtn" class="absolute top-4 left-4 text-slate-300 hover:text-white p-1 rounded-lg hover:bg-white/10 transition-all" title="إغلاق">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+        <div class="flex items-center gap-2 mb-2">
+          <span id="modalPhaseBadge" class="px-2.5 py-0.5 rounded-md text-[11px] font-bold bg-emerald-500 text-white"></span>
+          <span id="modalUnitBadge" class="px-2.5 py-0.5 rounded-md text-[11px] font-bold bg-white/20 text-white"></span>
+        </div>
+        <h3 id="modalClinicName" class="text-xl font-black"></h3>
+        <p id="modalDoctorName" class="text-sm text-emerald-300 font-semibold mt-1"></p>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="p-5 space-y-4 text-sm">
+        
+        <div>
+          <span class="text-xs text-slate-400 font-bold block mb-1">التخصص الطبي:</span>
+          <div id="modalSpecialty" class="inline-block px-3 py-1 bg-slate-100 rounded-lg text-slate-800 font-bold text-xs border border-slate-200"></div>
+        </div>
+
+        <div class="bg-slate-50 p-3.5 rounded-xl border border-slate-200/80">
+          <div class="flex items-start gap-2.5">
+            <div class="w-7 h-7 rounded-lg bg-emerald-100 text-emerald-700 flex items-center justify-center shrink-0 mt-0.5">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              </svg>
+            </div>
+            <div>
+              <span class="text-xs text-slate-500 font-bold block">مواعيد العمل والأيام:</span>
+              <p id="modalTiming" class="text-slate-800 font-semibold text-xs leading-relaxed mt-0.5"></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Location in Ozone Mall Hint -->
+        <div class="bg-amber-50/60 p-3.5 rounded-xl border border-amber-200/70">
+          <div class="flex items-start gap-2.5">
+            <div class="w-7 h-7 rounded-lg bg-amber-100 text-amber-700 flex items-center justify-center shrink-0 mt-0.5">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+            </div>
+            <div>
+              <span class="text-xs text-amber-800 font-bold block">موقع العيادة داخل مول أوزون:</span>
+              <p id="modalLocationHint" class="text-amber-900 font-medium text-xs leading-relaxed mt-0.5"></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact Section -->
+        <div>
+          <span class="text-xs text-slate-400 font-bold block mb-2">التواصل والحجز:</span>
+          <div id="modalPhonesList" class="flex flex-col gap-2">
+            <!-- Injected -->
+          </div>
+          <p id="modalBookingNote" class="hidden mt-2 text-xs font-semibold text-slate-600 leading-relaxed"></p>
+        </div>
+
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="bg-slate-50 px-5 py-3 border-t border-slate-200 flex items-center justify-between">
+        <button id="modalFavBtn" class="flex items-center gap-1.5 text-xs font-bold text-slate-600 hover:text-rose-600">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+          </svg>
+          <span id="modalFavText">إضافة للمفضلة</span>
+        </button>
+        <button id="modalCopyBtn" class="px-4 py-2 rounded-xl bg-slate-200 hover:bg-slate-300 text-slate-700 font-bold text-xs transition-all flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path>
+          </svg>
+          <span>نسخ كل البيانات</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- QR Code Modal -->
+  <div id="qrModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm transition-opacity duration-200 opacity-0 hidden">
+    <div class="bg-white rounded-2xl shadow-xl max-w-sm w-full p-6 text-center border border-slate-200 transform transition-transform duration-200 scale-95">
+      <div class="mx-auto mb-3 flex justify-center">
+        <img src="assets/image-02-2cf9e7f530aa.png" alt="OZONE Logo" class="h-14 w-auto object-contain">
+      </div>
+      <h3 class="text-lg font-black text-slate-900 mb-1">رمز الاستجابة السريع (QR Code)</h3>
+      <p class="text-xs text-slate-500 mb-4">اطبع هذا الرمز وضعه على بوابات المول، المصاعد، والممرات ليفتحه الزوار بهواتفهم مباشرة.</p>
+      
+      <!-- Visual QR Code Box -->
+      <div class="bg-slate-50 p-4 rounded-xl border border-slate-200 inline-block mb-4">
+        <!-- SVG Generated QR representation -->
+        <svg class="w-44 h-44 mx-auto" viewBox="0 0 100 100" fill="currentColor">
+          <!-- QR pattern aesthetic placeholder representation -->
+          <rect x="5" y="5" width="25" height="25" fill="#0f172a" rx="3"></rect>
+          <rect x="9" y="9" width="17" height="17" fill="#ffffff" rx="1"></rect>
+          <rect x="13" y="13" width="9" height="9" fill="#059669"></rect>
+          
+          <rect x="70" y="5" width="25" height="25" fill="#0f172a" rx="3"></rect>
+          <rect x="74" y="9" width="17" height="17" fill="#ffffff" rx="1"></rect>
+          <rect x="78" y="13" width="9" height="9" fill="#059669"></rect>
+          
+          <rect x="5" y="70" width="25" height="25" fill="#0f172a" rx="3"></rect>
+          <rect x="9" y="74" width="17" height="17" fill="#ffffff" rx="1"></rect>
+          <rect x="13" y="78" width="9" height="9" fill="#059669"></rect>
+          
+          <!-- Data blocks -->
+          <rect x="36" y="8" width="8" height="6" fill="#0f172a"></rect>
+          <rect x="48" y="12" width="6" height="8" fill="#059669"></rect>
+          <rect x="36" y="24" width="8" height="6" fill="#0f172a"></rect>
+          <rect x="48" y="24" width="14" height="6" fill="#0f172a"></rect>
+          <rect x="8" y="36" width="6" height="8" fill="#0f172a"></rect>
+          <rect x="20" y="38" width="10" height="6" fill="#059669"></rect>
+          <rect x="36" y="36" width="10" height="10" fill="#059669" rx="2"></rect>
+          <rect x="52" y="36" width="8" height="6" fill="#0f172a"></rect>
+          <rect x="66" y="36" width="12" height="8" fill="#0f172a"></rect>
+          <rect x="84" y="36" width="8" height="12" fill="#059669"></rect>
+          
+          <rect x="8" y="50" width="14" height="6" fill="#059669"></rect>
+          <rect x="28" y="48" width="12" height="10" fill="#0f172a"></rect>
+          <rect x="44" y="52" width="12" height="6" fill="#059669"></rect>
+          <rect x="62" y="50" width="8" height="14" fill="#0f172a"></rect>
+          <rect x="76" y="54" width="16" height="8" fill="#059669"></rect>
+          
+          <rect x="36" y="66" width="8" height="10" fill="#0f172a"></rect>
+          <rect x="48" y="64" width="14" height="6" fill="#059669"></rect>
+          <rect x="68" y="70" width="10" height="8" fill="#0f172a"></rect>
+          <rect x="84" y="68" width="8" height="14" fill="#0f172a"></rect>
+          <rect x="36" y="82" width="14" height="10" fill="#059669"></rect>
+          <rect x="56" y="76" width="8" height="16" fill="#0f172a"></rect>
+          <rect x="70" y="84" width="12" height="8" fill="#059669"></rect>
+        </svg>
+        <span class="text-[10px] text-slate-400 font-bold block mt-1">مول أوزون الطبي • دليل العيادات</span>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <button id="closeQrBtn" class="flex-1 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs transition-all">
+          إغلاق
+        </button>
+        <button id="copyAppUrlBtn" class="flex-1 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition-all shadow-sm">
+          نسخ رابط التطبيق
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Google Sheets Sync Guide Modal -->
+  <div id="syncModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm transition-opacity duration-200 opacity-0 hidden">
+    <div class="bg-white rounded-2xl shadow-xl max-w-lg w-full p-6 border border-slate-200 max-h-[90vh] overflow-y-auto transform transition-transform duration-200 scale-95">
+      
+      <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-100">
+        <div class="flex items-center gap-2.5">
+          <div class="w-9 h-9 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+            </svg>
+          </div>
+          <div>
+            <h3 class="text-base font-black text-slate-900">ربط التطبيق بجوجل شيت مباشرة</h3>
+            <p class="text-xs text-slate-500">البيانات تُقرأ من الشيت عند فتح التطبيق وتُفحص دوريًا.</p>
+          </div>
+        </div>
+        <button id="closeSyncBtn" class="text-slate-400 hover:text-slate-600 p-1">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+
+      <div class="space-y-4 text-xs text-slate-600 leading-relaxed">
+        
+        <div class="p-3 bg-emerald-50 rounded-xl border border-emerald-100 text-emerald-900">
+          <p class="font-bold">✨ ميزة الربط السحابي التلقائي:</p>
+          <p class="mt-1">حالياً هذا التطبيق مدمج بداخله كافة الـ 260 عيادة من شيتك. لكن يمكنك ربطه بسطر كود بسيط (Google Apps Script) ليقرأ الشيت لحظة بلحظة ومجاناً!</p>
+        </div>
+
+        <div>
+          <h4 class="font-bold text-slate-800 text-sm mb-1">اختيار طريقة إتاحة بيانات الدليل:</h4>
+          <ol class="list-decimal list-inside space-y-2 font-medium">
+            <li><strong>الربط المباشر:</strong> من مشاركة Google Sheets اجعل ملف البيانات متاحًا للقراءة «أي شخص لديه الرابط: عارض». لا تمنح أحدًا صلاحية محرر.</li>
+            <li><strong>للشيت الخاص:</strong> استخدم ملف <code>Code.gs</code> المرفق، وانشره Web App بالقراءة فقط من خلال Google Apps Script، ثم أضف رابط النشر إلى إعداد <code>webAppUrl</code> بكود التطبيق.</li>
+            <li>أي تعديل في الشيت يظهر عند فتح الصفحة أو الضغط على «تحديث البيانات»، ويتم فحص التحديثات كل خمس دقائق أثناء فتح الصفحة.</li>
+            <li>إذا ظهرت رسالة «بيانات محفوظة»، راجع صلاحيات عرض الشيت وعناوين الأعمدة.</li>
+          </ol>
+        </div>
+
+        <div class="p-3 bg-slate-50 rounded-xl border border-slate-200">
+          <span class="font-bold text-slate-800 block mb-1">أين نستضيف التطبيق ليفتحه الزوار بالـ QR Code؟</span>
+          <p>يمكن رفع ملف هذا التطبيق في ثانية واحدة على أي استضافة مجانية وسريعة مثل:</p>
+          <ul class="list-disc list-inside mt-1 space-y-0.5 text-slate-600">
+            <li><strong>GitHub Pages</strong> (مجاني ومدى الحياة برابط مباشر)</li>
+            <li><strong>Vercel أو Netlify</strong> (ضغطة زر واحدة ويدعم نطاق خاص مثل ozone-clinics.com)</li>
+            <li><strong>Firebase Hosting</strong> أو الاستضافة الخاصة بموقع المول الرسمي.</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="mt-5 pt-3 border-t border-slate-100 flex justify-end">
+        <button id="okSyncBtn" class="px-5 py-2 bg-slate-900 hover:bg-slate-800 text-white rounded-xl font-bold text-xs transition-all">
+          فهمت ذلك، شكراً!
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  
+  <!-- Branding & Background Customization Modal -->
+  <div id="brandingModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm transition-opacity duration-200 opacity-0 hidden">
+    <div class="bg-white rounded-2xl shadow-xl max-w-lg w-full p-6 border border-slate-200 max-h-[90vh] overflow-y-auto transform transition-transform duration-200 scale-95">
+      
+      <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-100">
+        <div class="flex items-center gap-2.5">
+          <div class="w-9 h-9 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+            </svg>
+          </div>
+          <div>
+            <h3 class="text-base font-black text-slate-900">تخصيص لوجو وصورة المول الخارجية</h3>
+            <p class="text-xs text-slate-500">ارفع اللوجو الرسمي وصورة المول الحقيقية من جهازك مباشرة</p>
+          </div>
+        </div>
+        <button id="closeBrandingBtn" class="text-slate-400 hover:text-slate-600 p-1">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+
+      <div class="space-y-5 text-xs">
+        
+        <!-- Logo Section -->
+        <div class="p-4 bg-slate-50 rounded-xl border border-slate-200">
+          <label class="font-bold text-slate-800 text-sm block mb-2">1. لوجو مول أوزون (Logo):</label>
+          <div class="flex items-center gap-4">
+            <img id="previewLogoModal" src="assets/image-02-2cf9e7f530aa.png" alt="Preview Logo" class="w-24 h-16 p-1.5 rounded-xl object-contain border border-slate-300 bg-white shrink-0 shadow-sm">
+            <div class="flex-1 space-y-2">
+              <label class="cursor-pointer inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition-all shadow-sm">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+                <span>رفع صورة اللوجو من جهازك</span>
+                <input type="file" id="logoFileInput" accept="image/*" class="hidden">
+              </label>
+              <p class="text-[11px] text-slate-500">يدعم PNG أو JPG (يفضل خلفية شفافة أو مربعة).</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Exterior Photo Section -->
+        <div class="p-4 bg-slate-50 rounded-xl border border-slate-200">
+          <label class="font-bold text-slate-800 text-sm block mb-2">2. صورة المول من الخارج كخلفية (Background):</label>
+          
+          <div class="relative h-28 rounded-xl overflow-hidden border border-slate-300 mb-3 bg-slate-900">
+            <img id="previewBgModal" src="assets/image-01-f8911c04a565.jpg" alt="Preview Background" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-slate-900/70 to-transparent flex items-end p-2.5">
+              <span class="text-white text-[11px] font-bold">معاينة صورة واجهة المول الحالية</span>
+            </div>
+          </div>
+
+          <div class="flex flex-wrap items-center gap-2 mb-3">
+            <label class="cursor-pointer inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900 hover:bg-emerald-700 text-white font-bold text-xs transition-all shadow-sm">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+              <span>رفع صورة المول من جهازك</span>
+              <input type="file" id="bgFileInput" accept="image/*" class="hidden">
+            </label>
+
+            <button id="presetExteriorBtn" class="px-3 py-2 rounded-xl bg-white border border-slate-200 hover:border-emerald-500 text-slate-700 font-bold text-xs transition-all">
+              الواجهة الخارجية الافتراضية
+            </button>
+            <button id="presetInteriorBtn" class="px-3 py-2 rounded-xl bg-white border border-slate-200 hover:border-emerald-500 text-slate-700 font-bold text-xs transition-all">
+              الردهه الداخلية
+            </button>
+          </div>
+
+
+  
+        </div>
+        <div class="p-4 bg-slate-50 rounded-xl border border-slate-200">
+          <label for="bgOpacityRange" class="font-bold text-slate-800 text-sm block mb-2">شفافية خلفية الصفحة: <span id="bgOpacityLabel">25%</span></label>
+          <input type="range" id="bgOpacityRange" min="0" max="100" value="25" class="w-full accent-emerald-600" />
+        </div>
+      </div>
+      <div class="mt-5 pt-3 border-t border-slate-100 flex justify-between gap-3">
+        <button id="resetBrandingBtn" type="button" class="px-3 py-2 rounded-xl border border-slate-200 font-bold text-xs text-slate-700">استعادة الافتراضي</button>
+        <button id="doneBrandingBtn" type="button" class="px-5 py-2 rounded-xl bg-emerald-600 text-white font-bold text-xs">حفظ وإغلاق</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toastNotification" class="fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50 bg-slate-900 text-white px-4 py-2.5 rounded-xl shadow-lg border border-slate-700 text-xs font-bold flex items-center gap-2 pointer-events-none transition-all duration-300 opacity-0">
+    <svg class="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+    </svg>
+    <span id="toastMessage">تم نسخ رابط التطبيق لنشره على الـ QR Code!</span>
+  </div>
+
+  <!-- Footer -->
+  <footer class="relative z-10 bg-white/95 backdrop-blur-md border-t border-slate-200 py-6 mt-12 text-center text-xs text-slate-500">
+    <div class="max-w-6xl mx-auto px-4">
+      <p class="font-bold text-slate-700 mb-1">دليل عيادات ومراكز أوزون الطبي • Ozone Medical Center</p>
+      <p>تطبيق ويب تفاعلي سريع مخصص لمسح رمز الاستجابة السريع (QR Code) وخدمة رواد وزوار المول.</p>
+    </div>
+  </footer>
+
+  <!-- Application Logic -->
+  <script>
+    // --- Arabic / English interface localization ---
+    let uiLang = 'ar';
+    try { if (localStorage.getItem('ozone_interface_lang') === 'en') uiLang = 'en'; } catch(e) {}
+    const UI_STATIC_EN = {"مول أوزون الطبي • OZONE": "OZONE Medical Mall", "OZONE Healthcare District • دليل العيادات الذكي": "OZONE Healthcare District • Smart Clinic Directory", "المفضلة": "Favorites", "معلومات الشيت": "Sheet Information", "التحقق من الاتصال…": "Checking connection…", "مول أوزون الطبي (OZONE Healthcare District) • النرجس - التجمع الخامس": "OZONE Healthcare District • El Narges, New Cairo", "ابحث عن عيادتك واحجز موعدك فورياً": "Find Your Clinic & Book an Appointment", "دليل رقمي شامل للعيادات والمراكز الطبية المتخصصة عبر مراحل المول الأربعة، مع أرقام التواصل ومواعيد العمل المسجلة.": "Explore clinics and medical centers across the four phases, with contact numbers and registered working hours.", "مجمع العيادات والمراكز الطبية": "Medical Clinics & Centers", "عيادة ومركز": "Clinics & Centers", "مراحل (A - B - C - D)": "Phases (A - B - C - D)", "تخصص طبي دقيق": "Medical Specialties", "اتصال مباشر": "Direct Contact", "المرحلة:": "Phase:", "كافة المراحل": "All Phases", "المرحلة A": "Phase A", "المرحلة B": "Phase B", "المرحلة C": "Phase C", "المرحلة D": "Phase D", "متاح هاتف حجز مباشر 📞": "Direct Booking Phone Available 📞", "التخصص:": "Specialty:", "النتائج:": "Results:", "تحديث البيانات": "Refresh Data", "الترتيب:": "Sort:", "الترتيب حسب الشيت": "Sheet Order", "اسم العيادة (أ-ي)": "Clinic Name (A–Z)", "اسم الطبيب (أ-ي)": "Doctor Name (A–Z)", "رقم الوحدة": "Unit Number", "في انتظار تحميل بيانات العيادات": "Waiting for Clinic Data", "جرب البحث بكلمة أخرى، أو مسح فلاتر التخصص والمرحلة لعرض كافة العيادات.": "Try another search term or clear the phase and specialty filters to view all clinics.", "إعادة تعيين الفلاتر": "Clear Filters", "عرض المزيد من العيادات": "Load More Clinics", "التخصص الطبي:": "Medical Specialty:", "مواعيد العمل والأيام:": "Working Days & Hours:", "موقع العيادة داخل مول أوزون:": "Clinic Location in OZONE:", "التواصل والحجز:": "Contact & Booking:", "إضافة للمفضلة": "Add to Favorites", "نسخ كل البيانات": "Copy All Details", "رمز الاستجابة السريع (QR Code)": "QR Code", "اطبع هذا الرمز وضعه على بوابات المول، المصاعد، والممرات ليفتحه الزوار بهواتفهم مباشرة.": "Place this QR code at entrances, elevators, and corridors for visitors to open the directory.", "مول أوزون الطبي • دليل العيادات": "OZONE Healthcare District • Clinic Directory", "إغلاق": "Close", "نسخ رابط التطبيق": "Copy App Link", "دليل عيادات ومراكز أوزون الطبي • Ozone Medical Center": "OZONE Healthcare District • Clinic & Medical Center Directory", "تطبيق ويب تفاعلي سريع مخصص لمسح رمز الاستجابة السريع (QR Code) وخدمة رواد وزوار المول.": "An interactive clinic directory for OZONE Healthcare District visitors.", "الكل": "All", "أسنان": "Dentistry", "علاج طبيعي وتغذية": "Physiotherapy & Nutrition", "جلدية وتجميل": "Dermatology & Aesthetics", "باطنة وقلب وكلى": "Internal Medicine, Cardiology & Nephrology", "أطفال": "Pediatrics", "مخ وأعصاب ونفسي": "Neurology & Psychiatry", "عيون": "Ophthalmology", "عظام ومفاصل وعلاج ألم": "Orthopedics & Pain Management", "نساء وتوليد": "Obstetrics & Gynecology", "جراحة ومسالك": "Surgery & Urology", "أشعة وتحاليل": "Radiology & Laboratory", "أنف وأذن وحنجرة": "ENT", "مراكز واستشارات عامة": "General Clinics & Consultations"};
+    const UI_CATEGORY_EN = Object.freeze({"الكل": "All", "أسنان": "Dentistry", "علاج طبيعي وتغذية": "Physiotherapy & Nutrition", "جلدية وتجميل": "Dermatology & Aesthetics", "باطنة وقلب وكلى": "Internal Medicine, Cardiology & Nephrology", "أطفال": "Pediatrics", "مخ وأعصاب ونفسي": "Neurology & Psychiatry", "عيون": "Ophthalmology", "عظام ومفاصل وعلاج ألم": "Orthopedics & Pain Management", "نساء وتوليد": "Obstetrics & Gynecology", "جراحة ومسالك": "Surgery & Urology", "أشعة وتحاليل": "Radiology & Laboratory", "أنف وأذن وحنجرة": "ENT", "مراكز واستشارات عامة": "General Clinics & Consultations"});
+    function lang(ar, en) { return uiLang === 'en' ? en : ar; }
+    function displayCategory(category) {
+      return uiLang === 'en' ? (UI_CATEGORY_EN[category] || category) : category;
+    }
+    function displayPhase(phase, phaseEn) {
+      if (uiLang !== 'en') return phase;
+      if (phaseEn) return phaseEn;
+      const value = String(phase || '');
+      const matched = value.match(/(?:المرحلة|phase)\s*([A-D])/i);
+      if (matched) return `Phase ${matched[1].toUpperCase()}`;
+      return value === 'غير محددة' ? 'Unspecified' : value;
+    }
+    function localizedToast(message) {
+      if (uiLang !== 'en') return message;
+      const messages = {
+        'تمت الإزالة من المفضلة':'Removed from favorites',
+        'تم الحفظ في المفضلة ❤️':'Saved to favorites ❤️',
+        'تم النسخ بنجاح!':'Copied successfully!',
+        'تعذر النسخ':'Could not copy',
+        'تم نسخ كافة بيانات العيادة!':'All clinic details copied!',
+        'لم تقم بحفظ أي عيادة بعد في المفضلة':'No favorite clinics saved yet',
+        'تم نسخ رابط التطبيق لنشره على الـ QR Code!':'App link copied!',
+        'تعذّر تحميل بيانات التبويب 1001، راجع حالة الاتصال':'Could not load sheet tab 1001. Check connection status.',
+        'تعذر الاتصال بشيت جوجل؛ راجع صلاحيات الوصول':'Cannot connect to Google Sheets; check access settings.',
+        'لم يرجع الشيت بيانات؛ تحقق من المشاركة أو رابط Apps Script':'No sheet data received; check deployment and access.',
+        'انتهت مهلة الاتصال بشيت جوجل':'Google Sheets connection timed out.'
+      };
+      const updated = message.match(/^تم تحديث بيانات (\d+) عيادة من جوجل شيت$/);
+      if (updated) return `${updated[1]} clinic records refreshed from Google Sheets`;
+      return messages[message] || message;
+    }
+
+    // Bilingual content comes from I:N of the source spreadsheet, not automatic translation.
+    function clinicField(clinic, key) {
+      const enKey = {name:'nameEn', doctor:'doctorEn', specialty:'specialtyEn', timing:'timingEn', phase:'phaseEn', rawPhone:'bookingEn'}[key];
+      return uiLang === 'en' && enKey && clinic[enKey] ? clinic[enKey] : (clinic[key] || '');
+    }
+    function bookingText(clinic) {
+      if (uiLang !== 'en') return clinic.rawPhone || 'حجز مسبق';
+      if (clinic.bookingEn) return clinic.bookingEn;
+      return /حجز\s*مسبق/.test(clinic.rawPhone || '') ? 'By Prior Appointment' : (clinic.rawPhone || 'Advance booking');
+    }
+    function refreshOpenModalText(clinic) {
+      modalClinicName.textContent = clinicField(clinic, 'name');
+      modalDoctorName.textContent = `👨‍⚕️ ${clinicField(clinic, 'doctor')}`;
+      modalPhaseBadge.textContent = displayPhase(clinic.phase, clinic.phaseEn);
+      modalUnitBadge.textContent = `${lang('وحدة: ','Unit: ')}${clinic.unit}`;
+      modalSpecialty.textContent = clinicField(clinic, 'specialty');
+      modalTiming.textContent = clinicField(clinic, 'timing');
+      modalLocationHint.textContent = getUnitLocationHint(clinic.phase, clinic.unit, clinic.phaseEn);
+      const noteEl = document.getElementById('modalBookingNote');
+      if (noteEl) {
+        const note = bookingText(clinic);
+        const isNonPhoneNote = !/^[+\d()\-\s/]+$/.test(note);
+        noteEl.textContent = isNonPhoneNote ? `${lang('ملاحظات الحجز: ','Booking notes: ')}${note}` : '';
+        noteEl.classList.toggle('hidden', !isNonPhoneNote);
+      }
+    }
+
+    // Preserve Arabic text nodes so language switching is lossless and does not mutate sheet data.
+    const originalUiTextNodes = new Map();
+    const originalUiAttrs = new Map();
+    function localizeStaticUI() {
+      const skip = '#clinicsGrid, #categoryPillsContainer, #modalClinicName, #modalDoctorName, #modalPhaseBadge, #modalUnitBadge, #modalSpecialty, #modalTiming, #modalLocationHint, #modalPhonesList, #resultsCount, #showingStatus, #activeFiltersSummary, #dataSyncStatus, #ozoneLiveBadge, #toastNotification, script, style';
+      const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+      let textNode;
+      while ((textNode = walker.nextNode())) {
+        if (!textNode.parentElement || textNode.parentElement.closest(skip)) continue;
+        const content = textNode.nodeValue.trim();
+        if (!content) continue;
+        if (!originalUiTextNodes.has(textNode) && Object.prototype.hasOwnProperty.call(UI_STATIC_EN,content)) originalUiTextNodes.set(textNode, content);
+      }
+      originalUiTextNodes.forEach((ar,node) => {
+        if (!node.isConnected) { originalUiTextNodes.delete(node); return; }
+        const original = node.nodeValue;
+        const old = original.trim();
+        const chosen = lang(ar, UI_STATIC_EN[ar]);
+        if (old !== chosen) node.nodeValue = original.replace(old, chosen);
+      });
+      const attrs = [
+        ['searchInput','placeholder','ابحث بالاسم، الطبيب، التخصص، أو رقم الوحدة (مثال: AG001، أسنان، د/ نورهان)...','Search by clinic, doctor, specialty, or unit number (e.g. AG001, dental)...'],
+        ['refreshDataBtn','title','قراءة أحدث نسخة من Google Sheets','Load latest data from Google Sheets'],
+        ['favoritesToggleBtn','title','العيادات المحفوظة','Favorite clinics'],
+        ['ozoneLiveBadge','title','حالة مزامنة الدليل','Directory sync status'],
+        ['clearSearchBtn','title','مسح البحث','Clear search']
+      ];
+      for (const [id,attr,ar,en] of attrs) {
+        const element = document.getElementById(id);
+        if (element) element.setAttribute(attr,lang(ar,en));
+      }
+    }
+    function setUILanguage(nextLanguage) {
+      uiLang = nextLanguage === 'en' ? 'en' : 'ar';
+      document.documentElement.lang = uiLang;
+      document.documentElement.dir = uiLang === 'en' ? 'ltr' : 'rtl';
+      document.title = lang('دليل عيادات ومراكز أوزون الطبي | Ozone Medical Directory', 'OZONE Healthcare District | Clinic Directory');
+      try { localStorage.setItem('ozone_interface_lang',uiLang); } catch(e) {}
+      const languageButton = document.getElementById('languageToggleBtn');
+      if (languageButton) {
+        languageButton.textContent = uiLang === 'en' ? 'العربية' : 'English';
+        languageButton.title = lang('Switch to English','التحويل إلى العربية');
+        languageButton.setAttribute('aria-label',languageButton.title);
+      }
+      localizeStaticUI();
+      renderCategoryPills();
+      renderClinics();
+      updateSyncStatus();
+      if (activeModalClinic) openClinicModal(activeModalClinic.id);
+    }
+    // --- End bilingual UI ---
+
+    // Embedded Complete Database of 262 Clinics from the Google Sheet
+    let ALL_CLINICS = [];
+
+    let CATEGORIES = ["الكل", "أسنان", "علاج طبيعي وتغذية", "جلدية وتجميل", "باطنة وقلب وكلى", "أطفال", "مخ وأعصاب ونفسي", "عيون", "عظام ومفاصل وعلاج ألم", "نساء وتوليد", "جراحة ومسالك", "أشعة وتحاليل", "أنف وأذن وحنجرة", "مراكز واستشارات عامة"];
+
+    // Keep all displayed numbers in English 0-9, including values from Google Sheets and local cache.
+    function toEnglishDigits(value) {
+      return String(value == null ? '' : value).replace(/[\u0660-\u0669\u06f0-\u06f9]/g, digit => {
+        const code = digit.charCodeAt(0);
+        return String(code - (code <= 0x0669 ? 0x0660 : 0x06f0));
+      });
+    }
+    function englishDigitsInClinic(clinic) {
+      const result = { ...clinic };
+      for (const key of ['num','phase','name','doctor','specialty','category','unit','timing','rawPhone','phaseEn','nameEn','doctorEn','specialtyEn','timingEn','bookingEn']) {
+        if (result[key] != null) result[key] = toEnglishDigits(result[key]);
+      }
+      if (Array.isArray(result.phones)) result.phones = result.phones.map(toEnglishDigits);
+      return result;
+    }
+
+    // Application State
+    let currentSearch = '';
+    let currentPhase = 'all';
+    let currentCategory = 'الكل';
+    let onlyDirectPhone = false;
+    let onlyFavorites = false;
+    let currentSort = 'default';
+    let pageSize = 24;
+    let displayedCount = 24;
+    let favorites = [];
+
+    // Load favorites safely
+    try {
+      const stored = localStorage.getItem('ozone_fav_clinics');
+      if (stored) {
+        favorites = JSON.parse(stored);
+      }
+    } catch (e) {
+      console.warn('Storage unavailable', e);
+    }
+
+    // DOM Elements
+    const searchInput = document.getElementById('searchInput');
+    const clearSearchBtn = document.getElementById('clearSearchBtn');
+    const phoneOnlyToggle = document.getElementById('phoneOnlyToggle');
+    const sortSelect = document.getElementById('sortSelect');
+    const categoryPillsContainer = document.getElementById('categoryPillsContainer');
+    const clinicsGrid = document.getElementById('clinicsGrid');
+    const emptyState = document.getElementById('emptyState');
+    const resultsCount = document.getElementById('resultsCount');
+    const activeFiltersSummary = document.getElementById('activeFiltersSummary');
+    const loadMoreContainer = document.getElementById('loadMoreContainer');
+    const loadMoreBtn = document.getElementById('loadMoreBtn');
+    const showingStatus = document.getElementById('showingStatus');
+    const resetFiltersBtn = document.getElementById('resetFiltersBtn');
+    const favoritesToggleBtn = document.getElementById('favoritesToggleBtn');
+    const favCountBadge = document.getElementById('favCountBadge');
+
+    // Modals
+    const clinicModal = document.getElementById('clinicModal');
+    const closeModalBtn = document.getElementById('closeModalBtn');
+    const qrModal = document.getElementById('qrModal');
+    const qrModalBtn = document.getElementById('qrModalBtn');
+    const closeQrBtn = document.getElementById('closeQrBtn');
+    const copyAppUrlBtn = document.getElementById('copyAppUrlBtn');
+    const syncModal = document.getElementById('syncModal');
+    const syncModalBtn = document.getElementById('syncModalBtn');
+    const closeSyncBtn = document.getElementById('closeSyncBtn');
+    const okSyncBtn = document.getElementById('okSyncBtn');
+
+    // Modal Details elements
+    const modalClinicName = document.getElementById('modalClinicName');
+    const modalDoctorName = document.getElementById('modalDoctorName');
+    const modalPhaseBadge = document.getElementById('modalPhaseBadge');
+    const modalUnitBadge = document.getElementById('modalUnitBadge');
+    const modalSpecialty = document.getElementById('modalSpecialty');
+    const modalTiming = document.getElementById('modalTiming');
+    const modalLocationHint = document.getElementById('modalLocationHint');
+    const modalPhonesList = document.getElementById('modalPhonesList');
+    const modalFavBtn = document.getElementById('modalFavBtn');
+    const modalFavText = document.getElementById('modalFavText');
+    const modalCopyBtn = document.getElementById('modalCopyBtn');
+    let activeModalClinic = null;
+
+    // Toast helper
+    let toastTimeout = null;
+    function showToast(msg) {
+      const toast = document.getElementById('toastNotification');
+      const text = document.getElementById('toastMessage');
+      text.textContent = toEnglishDigits(localizedToast(msg));
+      toast.classList.remove('opacity-0');
+      toast.classList.add('opacity-100');
+      clearTimeout(toastTimeout);
+      toastTimeout = setTimeout(() => {
+        toast.classList.remove('opacity-100');
+        toast.classList.add('opacity-0');
+      }, 2500);
+    }
+
+    // Update Favorites Badge
+    function updateFavBadge() {
+      favCountBadge.textContent = favorites.length;
+      if (onlyFavorites) {
+        favoritesToggleBtn.classList.add('bg-rose-50', 'border-rose-300', 'text-rose-700');
+      } else {
+        favoritesToggleBtn.classList.remove('bg-rose-50', 'border-rose-300', 'text-rose-700');
+      }
+    }
+
+    // Toggle Favorite Item
+    function toggleFavorite(id) {
+      const idx = favorites.indexOf(id);
+      if (idx > -1) {
+        favorites.splice(idx, 1);
+        showToast('تمت الإزالة من المفضلة');
+      } else {
+        favorites.push(id);
+        showToast('تم الحفظ في المفضلة ❤️');
+      }
+      try {
+        localStorage.setItem('ozone_fav_clinics', JSON.stringify(favorites));
+      } catch (e) {}
+      updateFavBadge();
+      renderClinics();
+      if (activeModalClinic && activeModalClinic.id === id) {
+        updateModalFavButtonState();
+      }
+    }
+
+    // Copy to clipboard helper
+    function copyText(text, successMsg = 'تم النسخ بنجاح!') {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          showToast(successMsg);
+        }).catch(() => {
+          fallbackCopy(text, successMsg);
+        });
+      } else {
+        fallbackCopy(text, successMsg);
+      }
+    }
+
+    function fallbackCopy(text, successMsg) {
+      const textArea = document.createElement('textarea');
+      textArea.value = text;
+      textArea.style.position = 'fixed';
+      textArea.style.left = '-9999px';
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      try {
+        if (document.execCommand('copy')) showToast(successMsg);
+        else showToast('تعذر النسخ');
+      } catch (err) {
+        showToast('تعذر النسخ');
+      }
+      document.body.removeChild(textArea);
+    }
+
+    // Build Category Pills
+    function renderCategoryPills() {
+      categoryPillsContainer.innerHTML = '';
+      CATEGORIES.forEach(cat => {
+        const btn = document.createElement('button');
+        btn.textContent = displayCategory(cat);
+        btn.className = `px-3 py-1 rounded-full font-bold whitespace-nowrap transition-all text-xs ${
+          currentCategory === cat 
+            ? 'bg-slate-900 text-white shadow-sm' 
+            : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+        }`;
+        btn.addEventListener('click', () => {
+          currentCategory = cat;
+          displayedCount = pageSize;
+          renderCategoryPills();
+          renderClinics();
+        });
+        categoryPillsContainer.appendChild(btn);
+      });
+    }
+
+    // Location Hint Formatter based on Unit Code
+    function getUnitLocationHint(phase, unit, phaseEn) {
+      let floorHint = lang('الدور غير محدد','Floor unspecified');
+      const cleanUnit = unit.toUpperCase().trim();
+      if (cleanUnit.startsWith('G') || cleanUnit.startsWith('AG') || cleanUnit.startsWith('BG') || cleanUnit.startsWith('CG') || cleanUnit.startsWith('DG')) {
+        floorHint = lang('الدور الأرضي (Ground Floor)','Ground Floor');
+      } else if (cleanUnit.includes('1') && !cleanUnit.includes('2') && !cleanUnit.includes('3')) {
+        floorHint = lang('الدور الأول (First Floor)','First Floor');
+      } else if (cleanUnit.includes('2')) {
+        floorHint = lang('الدور الثاني (Second Floor)','Second Floor');
+      } else if (cleanUnit.includes('3')) {
+        floorHint = lang('الدور الثالث (Third Floor)','Third Floor');
+      }
+      return `${displayPhase(phase, phaseEn)} • ${floorHint} • ${lang('وحدة كود: ','Unit: ')}${unit}`;
+    }
+
+    // Phase Badge Colors
+    function getPhaseBadgeStyle(phase) {
+      if (phase.includes('A')) return 'bg-blue-100 text-blue-800 border-blue-200';
+      if (phase.includes('B')) return 'bg-emerald-100 text-emerald-800 border-emerald-200';
+      if (phase.includes('C')) return 'bg-amber-100 text-amber-800 border-amber-200';
+      if (phase.includes('D')) return 'bg-purple-100 text-purple-800 border-purple-200';
+      return 'bg-slate-100 text-slate-800 border-slate-200';
+    }
+
+    // Filter and Sort Clinics
+    function getFilteredClinics() {
+      const q = currentSearch.trim().toLowerCase();
+      
+      let list = ALL_CLINICS.filter(c => {
+        // Phase Filter
+        if (currentPhase !== 'all' && c.phase !== currentPhase) {
+          return false;
+        }
+
+        // Category Filter
+        if (currentCategory !== 'الكل' && c.category !== currentCategory) {
+          return false;
+        }
+
+        // Phone Filter
+        if (onlyDirectPhone && (!c.phones || c.phones.length === 0)) {
+          return false;
+        }
+
+        // Favorites Filter
+        if (onlyFavorites && !favorites.includes(c.id)) {
+          return false;
+        }
+
+        // Search Query
+        if (q) {
+          const matchName = [c.name,c.nameEn].some(v => (v || '').toLowerCase().includes(q));
+          const matchDoctor = [c.doctor,c.doctorEn].some(v => (v || '').toLowerCase().includes(q));
+          const matchSpec = [c.specialty,c.specialtyEn].some(v => (v || '').toLowerCase().includes(q));
+          const matchUnit = c.unit.toLowerCase().includes(q);
+          const matchPhase = [c.phase,c.phaseEn].some(v => (v || '').toLowerCase().includes(q));
+          const matchPhone = [c.rawPhone,c.bookingEn].some(v => (v || '').toLowerCase().includes(q));
+          if (!matchName && !matchDoctor && !matchSpec && !matchUnit && !matchPhase && !matchPhone) {
+            return false;
+          }
+        }
+
+        return true;
+      });
+
+      // Sorting
+      if (currentSort === 'name') {
+        list.sort((a, b) => clinicField(a,'name').localeCompare(clinicField(b,'name'), uiLang === 'en' ? 'en' : 'ar'));
+      } else if (currentSort === 'doctor') {
+        list.sort((a, b) => clinicField(a,'doctor').localeCompare(clinicField(b,'doctor'), uiLang === 'en' ? 'en' : 'ar'));
+      } else if (currentSort === 'unit') {
+        list.sort((a, b) => a.unit.localeCompare(b.unit, 'ar', { numeric: true }));
+      }
+
+      return list;
+    }
+
+    // Render Clinic Card
+    function createClinicCard(inputClinic) {
+      const c = {
+        ...inputClinic,
+        phase: escapeHtml(inputClinic.phase),
+        name: escapeHtml(clinicField(inputClinic,'name')),
+        doctor: escapeHtml(clinicField(inputClinic,'doctor')),
+        specialty: escapeHtml(clinicField(inputClinic,'specialty')),
+        unit: escapeHtml(inputClinic.unit),
+        timing: escapeHtml(clinicField(inputClinic,'timing')),
+        rawPhone: escapeHtml(bookingText(inputClinic))
+      };
+      const isFav = favorites.includes(c.id);
+      const phaseStyle = getPhaseBadgeStyle(c.phase);
+      const hasPhone = c.phones && c.phones.length > 0;
+      const primaryPhone = hasPhone ? c.phones[0] : null;
+
+      const card = document.createElement('div');
+      card.className = 'bg-white rounded-2xl p-4 border border-slate-200/90 shadow-sm hover:shadow-md transition-all flex flex-col justify-between group';
+      
+      // WhatsApp Click URL
+      let waUrl = '#';
+      if (primaryPhone) {
+        const cleanPhone = primaryPhone.replace(/\D/g, '');
+        const intlPhone = cleanPhone.startsWith('0') ? '2' + cleanPhone : cleanPhone;
+        const msg = encodeURIComponent(lang(`مرحباً، أود الاستفسار عن مواعيد الحجز في ${clinicField(inputClinic,'name')} بمول أوزون الطبي (وحدة ${inputClinic.unit})`,`Hello, I would like to ask about booking at ${clinicField(inputClinic,'name')}, OZONE Healthcare District (unit ${inputClinic.unit}).`));
+        waUrl = `https://wa.me/${intlPhone}?text=${msg}`;
+      }
+
+      card.innerHTML = `
+        <div>
+          <!-- Top Row: Phase + Unit Code + Favorite Button -->
+          <div class="flex items-center justify-between gap-2 mb-3">
+            <div class="flex items-center gap-1.5 flex-wrap">
+              <span class="px-2 py-0.5 rounded-md text-[11px] font-bold border ${phaseStyle}">
+                ${escapeHtml(displayPhase(inputClinic.phase, inputClinic.phaseEn))}
+              </span>
+              <button class="unit-copy-btn px-2 py-0.5 rounded-md text-[11px] font-black bg-slate-900 text-white hover:bg-emerald-600 transition-colors flex items-center gap-1" data-unit="${c.unit}" title="${lang('انقر لنسخ كود الوحدة','Click to copy unit code')}">
+                <span>${lang('وحدة: ','Unit: ')}${c.unit}</span>
+                <svg class="w-3 h-3 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"/></svg>
+              </button>
+            </div>
+            
+            <button class="fav-btn p-1.5 rounded-full text-slate-300 hover:text-rose-500 hover:bg-rose-50 transition-colors ${isFav ? 'text-rose-500' : ''}" data-id="${c.id}" title="${isFav ? lang('إزالة من المفضلة','Remove favorite') : lang('حفظ في المفضلة','Save favorite')}">
+              <svg class="w-4 h-4" fill="${isFav ? 'currentColor' : 'none'}" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Clinic & Doctor Name -->
+          <h4 class="text-base font-extrabold text-slate-900 group-hover:text-emerald-700 transition-colors leading-snug cursor-pointer details-trigger" data-id="${c.id}">
+            ${c.name}
+          </h4>
+          <p class="text-xs text-slate-600 font-semibold mt-1 flex items-center gap-1">
+            <span class="text-slate-400">👨‍⚕️</span>
+            <span>${c.doctor}</span>
+          </p>
+
+          <!-- Specialty Pill -->
+          <div class="mt-2.5">
+            <span class="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-slate-100 text-slate-700 border border-slate-200">
+              🩺 ${c.specialty}
+            </span>
+          </div>
+
+          <!-- Working Hours -->
+          <div class="mt-3 p-2.5 rounded-xl bg-slate-50 border border-slate-100 text-xs">
+            <div class="flex items-start gap-1.5 text-slate-600">
+              <span class="text-emerald-600 shrink-0 text-sm">🕒</span>
+              <span class="font-medium text-[11px] leading-relaxed">${c.timing}</span>
+            </div>
+          </div>
+          ${uiLang === 'en' && inputClinic.bookingEn && !/^[+\d()\-\s/]+$/.test(inputClinic.bookingEn) ? `
+            <p class="mt-2 text-[11px] text-slate-500 font-medium">${escapeHtml(inputClinic.bookingEn)}</p>` : ''}
+        </div>
+
+        <!-- Action Buttons Footer -->
+        <div class="mt-4 pt-3 border-t border-slate-100 flex items-center gap-2">
+          ${hasPhone ? `
+            <a href="tel:${primaryPhone}" class="flex-1 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition-colors flex items-center justify-center gap-1.5 shadow-sm shadow-emerald-600/20">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+              <span>${lang('اتصال','Call')}</span>
+            </a>
+            <a href="${waUrl}" target="_blank" rel="noopener noreferrer" class="p-2 rounded-xl bg-emerald-50 text-emerald-700 hover:bg-emerald-100 border border-emerald-200 font-bold text-xs transition-colors" title="${lang('مراسلة واتساب','Message on WhatsApp')}">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.007c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.861.174.086.275.072.376-.044.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.099.824z"/></svg>
+            </a>
+          ` : `
+            <div class="flex-1 py-2 px-3 rounded-xl bg-slate-100 text-slate-500 font-bold text-[11px] text-center border border-slate-200">
+              ${c.rawPhone || lang('حجز مسبق','Advance booking')}
+            </div>
+          `}
+          
+          <button class="details-trigger p-2 rounded-xl border border-slate-200 text-slate-600 hover:bg-slate-100 font-bold text-xs transition-colors" data-id="${c.id}" title="${lang('عرض التفاصيل الكاملة','View clinic details')}">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </button>
+        </div>
+      `;
+
+      return card;
+    }
+
+    // Render Grid
+    function renderClinics() {
+      const filtered = getFilteredClinics();
+      
+      // Update Counts
+      resultsCount.textContent = `${filtered.length} ${lang('عيادة','clinics')}`;
+      
+      // Filter Summary text
+      let summaries = [];
+      if (currentPhase !== 'all') summaries.push(displayPhase(currentPhase));
+      if (currentCategory !== 'الكل') summaries.push(displayCategory(currentCategory));
+      if (onlyDirectPhone) summaries.push(lang('اتصال مباشر','Direct phone'));
+      if (onlyFavorites) summaries.push(lang('المفضلة','Favorites'));
+      activeFiltersSummary.textContent = summaries.length > 0 ? `(${summaries.join(' • ')})` : '';
+
+      if (filtered.length === 0) {
+        clinicsGrid.innerHTML = '';
+        emptyState.classList.remove('hidden');
+        const emptyTitle = emptyState.querySelector('h3');
+        if (emptyTitle) emptyTitle.textContent = ALL_CLINICS.length
+          ? lang('لم يتم العثور على عيادات مطابقة','No matching clinics found')
+          : lang('في انتظار بيانات صفحة الشيت المختارة','Waiting for selected sheet tab');
+        loadMoreContainer.classList.add('hidden');
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+
+      const itemsToShow = filtered.slice(0, displayedCount);
+      clinicsGrid.innerHTML = '';
+      itemsToShow.forEach(c => {
+        clinicsGrid.appendChild(createClinicCard(c));
+      });
+
+      // Load More button logic
+      if (displayedCount < filtered.length) {
+        loadMoreContainer.classList.remove('hidden');
+        showingStatus.textContent = lang(`يتم عرض ${itemsToShow.length} من أصل ${filtered.length} عيادة مطابقة`,`Showing ${itemsToShow.length} of ${filtered.length} matching clinics`);
+      } else {
+        loadMoreContainer.classList.add('hidden');
+      }
+
+      attachCardListeners();
+    }
+
+    // Attach listeners on dynamically generated card elements
+    function attachCardListeners() {
+      // Favorite buttons
+      document.querySelectorAll('.fav-btn').forEach(btn => {
+        btn.onclick = (e) => {
+          e.stopPropagation();
+          const id = parseInt(btn.getAttribute('data-id'));
+          toggleFavorite(id);
+        };
+      });
+
+      // Unit Copy buttons
+      document.querySelectorAll('.unit-copy-btn').forEach(btn => {
+        btn.onclick = (e) => {
+          e.stopPropagation();
+          const unit = btn.getAttribute('data-unit');
+          copyText(unit, `تم نسخ كود الوحدة: ${unit}`);
+        };
+      });
+
+      // Details triggers
+      document.querySelectorAll('.details-trigger').forEach(el => {
+        el.onclick = () => {
+          const id = parseInt(el.getAttribute('data-id'));
+          openClinicModal(id);
+        };
+      });
+    }
+
+    // Modal Details Logic
+    function openClinicModal(id) {
+      const clinic = ALL_CLINICS.find(c => c.id === id);
+      if (!clinic) return;
+      activeModalClinic = clinic;
+
+      refreshOpenModalText(clinic);
+
+      // Phones list
+      modalPhonesList.innerHTML = '';
+      if (clinic.phones && clinic.phones.length > 0) {
+        clinic.phones.forEach(p => {
+          const row = document.createElement('div');
+          row.className = 'flex items-center justify-between p-2.5 rounded-xl bg-slate-50 border border-slate-200';
+          const clean = p.replace(/\D/g, '');
+          const intl = clean.startsWith('0') ? '2' + clean : clean;
+          const msg = encodeURIComponent(lang(`مرحباً، أود الاستفسار عن مواعيد الحجز في ${clinicField(clinic,'name')} بمول أوزون الطبي`,`Hello, I would like to inquire about booking at ${clinicField(clinic,'name')}, OZONE Healthcare District.`));
+          row.innerHTML = `
+            <span class="font-bold text-slate-800 text-xs">${p}</span>
+            <div class="flex items-center gap-1.5">
+              <a href="tel:${p}" class="px-3 py-1 rounded-lg bg-emerald-600 text-white font-bold text-xs hover:bg-emerald-700 transition-colors">${lang('اتصال','Call')}</a>
+              <a href="https://wa.me/${intl}?text=${msg}" target="_blank" rel="noopener noreferrer" class="px-3 py-1 rounded-lg bg-emerald-100 text-emerald-800 font-bold text-xs hover:bg-emerald-200 transition-colors">${lang('واتساب','WhatsApp')}</a>
+            </div>
+          `;
+          modalPhonesList.appendChild(row);
+        });
+      } else {
+        modalPhonesList.innerHTML = `
+          <div class="p-3 bg-slate-50 rounded-xl border border-slate-200 text-slate-600 text-xs font-semibold">
+            ${escapeHtml(bookingText(clinic))}
+          </div>
+        `;
+      }
+
+      updateModalFavButtonState();
+
+      // Show modal
+      clinicModal.classList.remove('hidden');
+      setTimeout(() => {
+        clinicModal.classList.remove('opacity-0');
+        clinicModal.querySelector('div').classList.remove('scale-95');
+      }, 10);
+    }
+
+    function updateModalFavButtonState() {
+      if (!activeModalClinic) return;
+      const isFav = favorites.includes(activeModalClinic.id);
+      modalFavText.textContent = isFav ? lang('محفوظ في المفضلة ❤️','Saved to favorites ❤️') : lang('إضافة للمفضلة','Add to favorites');
+      modalFavBtn.className = `flex items-center gap-1.5 text-xs font-bold transition-colors ${
+        isFav ? 'text-rose-600' : 'text-slate-600 hover:text-rose-600'
+      }`;
+    }
+
+    function closeClinicModal() {
+      clinicModal.classList.add('opacity-0');
+      clinicModal.querySelector('div').classList.add('scale-95');
+      setTimeout(() => {
+        clinicModal.classList.add('hidden');
+        activeModalClinic = null;
+      }, 200);
+    }
+
+    // Modal listeners
+    closeModalBtn.addEventListener('click', closeClinicModal);
+    clinicModal.addEventListener('click', (e) => {
+      if (e.target === clinicModal) closeClinicModal();
+    });
+
+    modalFavBtn.addEventListener('click', () => {
+      if (activeModalClinic) {
+        toggleFavorite(activeModalClinic.id);
+      }
+    });
+
+    modalCopyBtn.addEventListener('click', () => {
+      if (activeModalClinic) {
+        const c = activeModalClinic;
+        const text = lang(`🏥 ${c.name}
+👨‍⚕️ الطبيب: ${c.doctor}
+🩺 التخصص: ${c.specialty}
+🏢 الموقع: ${c.phase} - وحدة ${c.unit} (مول أوزون الطبي)
+🕒 المواعيد: ${c.timing}
+📞 التواصل: ${c.rawPhone || 'حجز مسبق'}`,`🏥 ${clinicField(c,'name')}
+👨‍⚕️ Doctor: ${clinicField(c,'doctor')}
+🩺 Specialty: ${clinicField(c,'specialty')}
+🏢 Location: ${displayPhase(c.phase, c.phaseEn)} – Unit ${c.unit} (OZONE Healthcare District)
+🕒 Hours: ${clinicField(c,'timing')}
+📞 Contact / Booking: ${bookingText(c)}`);
+        copyText(text, 'تم نسخ كافة بيانات العيادة!');
+      }
+    });
+
+    // QR Modal logic
+    function openQrModal() {
+      qrModal.classList.remove('hidden');
+      setTimeout(() => {
+        qrModal.classList.remove('opacity-0');
+        qrModal.querySelector('div').classList.remove('scale-95');
+      }, 10);
+    }
+
+    function closeQrModal() {
+      qrModal.classList.add('opacity-0');
+      qrModal.querySelector('div').classList.add('scale-95');
+      setTimeout(() => {
+        qrModal.classList.add('hidden');
+      }, 200);
+    }
+
+    qrModalBtn.addEventListener('click', openQrModal);
+    closeQrBtn.addEventListener('click', closeQrModal);
+    qrModal.addEventListener('click', (e) => {
+      if (e.target === qrModal) closeQrModal();
+    });
+    copyAppUrlBtn.addEventListener('click', () => {
+      copyText(window.location.href, 'تم نسخ رابط التطبيق لنشره على الـ QR Code!');
+    });
+
+    // Google Sheet Sync Modal
+    function openSyncModal() {
+      syncModal.classList.remove('hidden');
+      setTimeout(() => {
+        syncModal.classList.remove('opacity-0');
+        syncModal.querySelector('div').classList.remove('scale-95');
+      }, 10);
+    }
+
+    function closeSyncModal() {
+      syncModal.classList.add('opacity-0');
+      syncModal.querySelector('div').classList.add('scale-95');
+      setTimeout(() => {
+        syncModal.classList.add('hidden');
+      }, 200);
+    }
+
+    if (syncModalBtn) syncModalBtn.addEventListener('click', openSyncModal);
+    closeSyncBtn.addEventListener('click', closeSyncModal);
+    okSyncBtn.addEventListener('click', closeSyncModal);
+    syncModal.addEventListener('click', (e) => {
+      if (e.target === syncModal) closeSyncModal();
+    });
+
+    // Search Input listeners
+    let searchDebounce = null;
+    searchInput.addEventListener('input', (e) => {
+      currentSearch = toEnglishDigits(e.target.value);
+      if (e.target.value !== currentSearch) e.target.value = currentSearch;
+      if (currentSearch.length > 0) {
+        clearSearchBtn.classList.remove('hidden');
+      } else {
+        clearSearchBtn.classList.add('hidden');
+      }
+      clearTimeout(searchDebounce);
+      searchDebounce = setTimeout(() => {
+        displayedCount = pageSize;
+        renderClinics();
+      }, 150);
+    });
+
+    clearSearchBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      currentSearch = '';
+      clearSearchBtn.classList.add('hidden');
+      displayedCount = pageSize;
+      renderClinics();
+    });
+
+    // Phase Buttons listener
+    document.querySelectorAll('.phase-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.phase-btn').forEach(b => {
+          b.className = 'phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200';
+        });
+        btn.className = 'phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-emerald-600 text-white shadow-sm shadow-emerald-600/20';
+        currentPhase = btn.getAttribute('data-phase');
+        displayedCount = pageSize;
+        renderClinics();
+      });
+    });
+
+    // Phone Only Toggle listener
+    phoneOnlyToggle.addEventListener('change', (e) => {
+      onlyDirectPhone = e.target.checked;
+      displayedCount = pageSize;
+      renderClinics();
+    });
+
+    // Favorites Toggle listener
+    favoritesToggleBtn.addEventListener('click', () => {
+      onlyFavorites = !onlyFavorites;
+      displayedCount = pageSize;
+      updateFavBadge();
+      renderClinics();
+      if (onlyFavorites && favorites.length === 0) {
+        showToast('لم تقم بحفظ أي عيادة بعد في المفضلة');
+      }
+    });
+
+    // Sort select listener
+    sortSelect.addEventListener('change', (e) => {
+      currentSort = e.target.value;
+      renderClinics();
+    });
+
+    // Reset filters
+    resetFiltersBtn.addEventListener('click', () => {
+      currentSearch = '';
+      searchInput.value = '';
+      clearSearchBtn.classList.add('hidden');
+      currentPhase = 'all';
+      currentCategory = 'الكل';
+      onlyDirectPhone = false;
+      phoneOnlyToggle.checked = false;
+      onlyFavorites = false;
+      currentSort = 'default';
+      sortSelect.value = 'default';
+      displayedCount = pageSize;
+
+      document.querySelectorAll('.phase-btn').forEach(b => {
+        if (b.getAttribute('data-phase') === 'all') {
+          b.className = 'phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-emerald-600 text-white shadow-sm shadow-emerald-600/20';
+        } else {
+          b.className = 'phase-btn px-3 py-1.5 rounded-lg font-bold transition-all bg-slate-100 text-slate-700 hover:bg-slate-200';
+        }
+      });
+
+      renderCategoryPills();
+      updateFavBadge();
+      renderClinics();
+    });
+
+    // Load More listener
+    loadMoreBtn.addEventListener('click', () => {
+      displayedCount += pageSize;
+      renderClinics();
+    });
+
+    
+    // Branding & Background Customization Logic
+    const DEFAULT_LOGO_SRC = document.getElementById('appLogoImg').getAttribute('src');
+    const DEFAULT_EXTERIOR_SRC = document.getElementById('heroBgImage').getAttribute('src');
+    const DEFAULT_INTERIOR_SRC = "assets/image-04-6f8249885dac.jpg";
+
+    const brandingModal = document.getElementById('brandingModal');
+    const brandingModalBtn = document.getElementById('brandingModalBtn');
+    const headerLogoTrigger = document.getElementById('headerLogoTrigger');
+    const heroCustomizeBtn = document.getElementById('heroCustomizeBtn');
+    const closeBrandingBtn = document.getElementById('closeBrandingBtn');
+    const doneBrandingBtn = document.getElementById('doneBrandingBtn');
+    const resetBrandingBtn = document.getElementById('resetBrandingBtn');
+
+    const logoFileInput = document.getElementById('logoFileInput');
+    const bgFileInput = document.getElementById('bgFileInput');
+    const presetExteriorBtn = document.getElementById('presetExteriorBtn');
+    const presetInteriorBtn = document.getElementById('presetInteriorBtn');
+    const bgOpacityRange = document.getElementById('bgOpacityRange');
+    const bgOpacityLabel = document.getElementById('bgOpacityLabel');
+
+    const appLogoImg = document.getElementById('appLogoImg');
+    const heroLogoBadge = document.getElementById('heroLogoBadge');
+    const heroCardLogo = document.getElementById('heroCardLogo');
+    const previewLogoModal = document.getElementById('previewLogoModal');
+
+    const heroBgImage = document.getElementById('heroBgImage');
+    const pageBgImage = document.getElementById('pageBgImage');
+    const previewBgModal = document.getElementById('previewBgModal');
+
+    function applyLogo(src, save = true) {
+      appLogoImg.src = src;
+      heroLogoBadge.src = src;
+      if (heroCardLogo) heroCardLogo.src = src;
+      previewLogoModal.src = src;
+      if (save) {
+        try { localStorage.setItem('ozone_custom_logo_v3', src); } catch (e) {}
+      }
+    }
+
+    function applyBg(src, save = true) {
+      heroBgImage.src = src;
+      pageBgImage.src = src;
+      previewBgModal.src = src;
+      if (save) {
+        try { localStorage.setItem('ozone_custom_bg_v3', src); } catch (e) {}
+      }
+    }
+
+    function applyBgOpacity(val, save = true) {
+      bgOpacityLabel.textContent = val + '%';
+      pageBgImage.style.opacity = (val / 100).toFixed(2);
+      if (save) {
+        try { localStorage.setItem('ozone_bg_opacity_v3', val); } catch (e) {}
+      }
+    }
+
+    // Load saved branding if present
+    try {
+      const savedLogo = localStorage.getItem('ozone_custom_logo_v3');
+      if (savedLogo) applyLogo(savedLogo, false);
+      const savedBg = localStorage.getItem('ozone_custom_bg_v3');
+      if (savedBg) applyBg(savedBg, false);
+      const savedOpacity = localStorage.getItem('ozone_bg_opacity_v3');
+      if (savedOpacity) {
+        bgOpacityRange.value = savedOpacity;
+        applyBgOpacity(savedOpacity, false);
+      }
+    } catch (e) {}
+
+    function openBrandingModal() {
+      brandingModal.classList.remove('hidden');
+      setTimeout(() => {
+        brandingModal.classList.remove('opacity-0');
+        brandingModal.querySelector('div').classList.remove('scale-95');
+      }, 10);
+    }
+
+    function closeBrandingModal() {
+      brandingModal.classList.add('opacity-0');
+      brandingModal.querySelector('div').classList.add('scale-95');
+      setTimeout(() => {
+        brandingModal.classList.add('hidden');
+      }, 200);
+    }
+
+    brandingModalBtn.addEventListener('click', openBrandingModal);
+    if (heroCustomizeBtn) heroCustomizeBtn.addEventListener('click', openBrandingModal);
+    closeBrandingBtn.addEventListener('click', closeBrandingModal);
+    doneBrandingBtn.addEventListener('click', () => {
+      closeBrandingModal();
+      showToast('تم حفظ وتحديث مظهر التطبيق بنجاح ✨');
+    });
+    brandingModal.addEventListener('click', (e) => {
+      if (e.target === brandingModal) closeBrandingModal();
+    });
+
+    logoFileInput.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        applyLogo(ev.target.result, true);
+        showToast('تم تحديث لوجو المول بنجاح!');
+      };
+      reader.readAsDataURL(file);
+    });
+
+    bgFileInput.addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        applyBg(ev.target.result, true);
+        showToast('تم تحديث صورة خلفية المول بنجاح!');
+      };
+      reader.readAsDataURL(file);
+    });
+
+    presetExteriorBtn.addEventListener('click', () => {
+      applyBg(DEFAULT_EXTERIOR_SRC, true);
+      showToast('تم تفعيل صورة الواجهة الخارجية للمول');
+    });
+
+    presetInteriorBtn.addEventListener('click', () => {
+      applyBg(DEFAULT_INTERIOR_SRC, true);
+      showToast('تم تفعيل صورة الردهة الداخلية للمول');
+    });
+
+    bgOpacityRange.addEventListener('input', (e) => {
+      applyBgOpacity(e.target.value, true);
+    });
+
+    resetBrandingBtn.addEventListener('click', () => {
+      applyLogo(DEFAULT_LOGO_SRC, false);
+      applyBg(DEFAULT_EXTERIOR_SRC, false);
+      bgOpacityRange.value = 25;
+      applyBgOpacity(25, false);
+      try {
+        localStorage.removeItem('ozone_custom_logo_v3');
+        localStorage.removeItem('ozone_custom_bg_v3');
+        localStorage.removeItem('ozone_bg_opacity_v3');
+      } catch (e) {}
+      showToast('تمت استعادة اللوجو والخلفية الافتراضية');
+    });
+
+    
+    // Standalone App Download Handler
+    const downloadAppBtn = document.getElementById('downloadAppBtn');
+    if (downloadAppBtn) {
+      downloadAppBtn.addEventListener('click', () => {
+        const htmlContent = '<!DOCTYPE html>\n' + document.documentElement.outerHTML;
+        const blob = new Blob([htmlContent], { type: 'text/html;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'OZONE_Healthcare_District_App.html';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        showToast('تم تحميل ملف التطبيق الكامل (OZONE_Healthcare_District_App.html) بنجاح! 🎉');
+      });
+    }
+
+    // Initial Setup
+    renderCategoryPills();
+    updateFavBadge();
+    renderClinics();
+
+    // --- OZONE Google Sheets: live, read-only integration ---
+    // Public-sheet mode uses the Google Visualization endpoint (JSONP), so no API key is exposed.
+    // For a private spreadsheet, deploy the bundled Google Apps Script and set webAppUrl below.
+    const OZONE_SHEET = Object.freeze({
+      spreadsheetId: '1rEd6eWflwWtSXYyJs8qFcftLQmngGzJlT99KFMnWdV0',
+      gid: '1001',
+      webAppUrl: 'https://script.google.com/macros/s/AKfycbz0SIQPaU5TrTZTK_p_IFWIr9GDPnV5s8lFs3Jbp9QC0Okbd0_mPq0hJrG9RpBvQl9n/exec', // Google Apps Script Web App (read-only)
+      refreshEveryMs: 5 * 60 * 1000
+    });
+    const FALLBACK_CLINICS = ALL_CLINICS.slice();
+    const fallbackByUnit = new Map(FALLBACK_CLINICS.map(c => [String(c.unit).trim().toUpperCase(), c]));
+    const originalCategoryOrder = CATEGORIES.slice();
+    const syncStatusElement = document.getElementById('dataSyncStatus');
+    const syncRefreshElement = document.getElementById('refreshDataBtn');
+    const heroClinicsCountElement = document.getElementById('heroClinicsCount');
+    const headerClinicCountElement = document.getElementById('headerClinicsCount');
+    const sheetState = { loading: false, source: 'none', lastUpdated: null, error: '', specialtyCount: null };
+    let sheetRequestId = 0;
+    let sheetRequestScript = null;
+    let sheetRequestTimeout = null;
+
+    function escapeHtml(value) {
+      return String(value === undefined || value === null ? '' : value)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+    function cleanCell(value) {
+      return toEnglishDigits(value).trim();
+    }
+    function normalizeHeader(value) {
+      return cleanCell(value).toLowerCase()
+        .replace(/[\u064b-\u065f\u0670]/g, '')
+        .replace(/[أإآ]/g, 'ا').replace(/ى/g, 'ي').replace(/ة/g, 'ه')
+        .replace(/[^\u0621-\u064aa-z0-9]+/g, '');
+    }
+    const sheetAliases = {
+      num: ['م','مسلسل','الرقم المسلسل','الرقم','no','serial','number','id'],
+      phase: ['المرحله','المراحل','مرحله','phase','stage','المبني','building'],
+      name: ['اسم العياده','اسم العيادات','اسم المركز','العياده','العيادات','المركز','اسم المنشأه','اسم المنشاة','clinic','clinic name','center','center name','name','اسم المكان'],
+      doctor: ['اسم الدكتور','اسم الطبيب','اسم الاطباء','الطبيب','الدكتور','الاطباء','الاطباء المعالجون','doctor','doctor name','doctors','physician','اسم الدكاتره'],
+      specialty: ['التخصص','التخصصات','التخصص الطبي','نوع التخصص','النشاط','specialty','speciality','specialization','specialism'],
+      category: ['التصنيف','الفئه','المجموعه','القسم','category','classification','group'],
+      unit: ['رقم الوحده','كود الوحده','كود','الوحده','الوحدات','رقم العياده','unit','unit code','unit number','code'],
+      timing: ['المواعيد','مواعيد العمل','المواعيد الخاصه','ساعات العمل','اوقات العمل','مواعيد الحجز','working hours','hours','timing','schedule','appointments'],
+      phaseEn: ['phaseEn','Phase (EN)'],
+      nameEn: ['nameEn','Clinic / Center Name (EN)'],
+      doctorEn: ['doctorEn','Doctor / Team (EN)'],
+      specialtyEn: ['specialtyEn','Medical Specialty (EN)'],
+      timingEn: ['timingEn','Working Hours & Days (EN)','Working Days & Hours (EN)'],
+      bookingEn: ['bookingEn','Booking & Contact (EN)','Booking Notes (EN)'],
+      rawPhone: ['ارقام التليفونات','ارقام الهاتف','ارقام التواصل','ارقام الحجز','رقم الموبايل','رقم المحمول','رقم التليفون','رقم الهاتف','تليفون','التليفون','الهاتف','الموبايل','المحمول','التواصل','رقم التواصل','رقم الحجز','رقم الاتصال','الحجز','phone','phones','mobile','telephone','contact','contact number','booking']
+    };
+    const normalizedAliases = Object.fromEntries(Object.entries(sheetAliases)
+      .map(([field, words]) => [field, words.map(normalizeHeader)]));
+    function fieldForHeader(header) {
+      const normalized = normalizeHeader(header);
+      if (!normalized) return null;
+      for (const [field, aliases] of Object.entries(normalizedAliases)) {
+        if (aliases.includes(normalized)) return field;
+      }
+      for (const [field, aliases] of Object.entries(normalizedAliases)) {
+        if (field === 'num') continue;
+        if (aliases.some(alias => alias.length >= 5 && normalized.includes(alias))) return field;
+      }
+      return null;
+    }
+    function getHeaderIndices(headers) {
+      const indices = {};
+      headers.forEach((header, index) => {
+        const field = fieldForHeader(header);
+        if (field && indices[field] === undefined) indices[field] = index;
+      });
+      return indices;
+    }
+    function phoneNumbers(value) {
+      const matches = cleanCell(value).match(/(?:\+?\d[\d\s\-().]{7,}\d)/g) || [];
+      return Array.from(new Set(matches.map(match => match.replace(/\D/g, ''))
+        .filter(number => number.length >= 10 && number.length <= 14)));
+    }
+    function inferCategory(specialty) {
+      const s = cleanCell(specialty).toLowerCase();
+      if (/اسنان|أسنان|dental|orthodont/.test(s)) return 'أسنان';
+      if (/علاج طبيعي|تغذ|تخسيس|سمنه|سمنة|diet|physio/.test(s)) return 'علاج طبيعي وتغذية';
+      if (/جلد|تجميل|ليزر|بشره|بشرة|dermat|aesthetic|cosmetic/.test(s)) return 'جلدية وتجميل';
+      if (/اطفال|أطفال|حضان|pediatric/.test(s)) return 'أطفال';
+      if (/مخ|اعصاب|أعصاب|نفسي|neurol|psychiat/.test(s)) return 'مخ وأعصاب ونفسي';
+      if (/عيون|رمد|ophthal|optom/.test(s)) return 'عيون';
+      if (/عظام|مفاصل|رومات|آلام|الام|orthop/.test(s)) return 'عظام ومفاصل وعلاج ألم';
+      if (/نساء|نسا|توليد|obstet|gyne/.test(s)) return 'نساء وتوليد';
+      if (/جراح|مسالك|urolog|surg/.test(s)) return 'جراحة ومسالك';
+      if (/اشعه|أشعة|تحاليل|معمل|radiol|laborator/.test(s)) return 'أشعة وتحاليل';
+      if (/انف|أنف|اذن|أذن|حنجر|otolaryng|ent/.test(s)) return 'أنف وأذن وحنجرة';
+      if (/باطن|قلب|كلي|كلى|internal medicine|cardio|nephro/.test(s)) return 'باطنة وقلب وكلى';
+      return 'مراكز واستشارات عامة';
+    }
+    function inferPhase(phase, unit) {
+      const phaseText = cleanCell(phase);
+      if (/^[ABCD]$/i.test(phaseText)) return `المرحلة ${phaseText.toUpperCase()}`;
+      if (/المرحلة\s*[ABCD]/i.test(phaseText)) return phaseText.replace(/([abcd])/i, (_, letter) => letter.toUpperCase());
+      if (/^phase\s*[ABCD]/i.test(phaseText)) return `المرحلة ${phaseText.match(/[ABCD]/i)[0].toUpperCase()}`;
+      const matched = cleanCell(unit).match(/^([ABCD])(?:G|F|\d)/i);
+      return matched ? `المرحلة ${matched[1].toUpperCase()}` : (phaseText || 'غير محددة');
+    }
+    function stableId(key) {
+      let hash = 2166136261;
+      for (const ch of String(key)) {
+        hash ^= ch.charCodeAt(0);
+        hash = Math.imul(hash, 16777619);
+      }
+      return (hash >>> 0) + 1000000;
+    }
+    function normalizeSheetRecords(headers, rows) {
+      if (!Array.isArray(headers) || !Array.isArray(rows)) throw new Error('صيغة بيانات الشيت غير معروفة');
+      let currentHeaders = headers.map(cleanCell);
+      let currentRows = rows;
+      let indices = getHeaderIndices(currentHeaders);
+      if (indices.name === undefined && rows.length && Array.isArray(rows[0])) {
+        const candidate = rows[0].map(cleanCell);
+        const possible = getHeaderIndices(candidate);
+        if (possible.name !== undefined && Object.keys(possible).length >= 3) {
+          indices = possible;
+          currentHeaders = candidate;
+          currentRows = rows.slice(1);
+        }
+      }
+      // V9 requires the API to expose the six translated fields. Old V8 deployments
+      // would otherwise show a connected badge without any English sheet values.
+      if (!['phaseEn','nameEn','doctorEn','specialtyEn','timingEn','bookingEn']
+            .every(field => indices[field] !== undefined)) {
+        throw new Error('يلزم نشر كود Apps Script الثنائي اللغة V9 لاستقبال الأعمدة الإنجليزية I:N');
+      }
+      // Never assume an arbitrary column is the clinic name: wrong data is worse than the cached directory.
+      if (indices.name === undefined || (indices.unit === undefined && indices.doctor === undefined)) {
+        throw new Error('تعذّر تحديد أعمدة اسم العيادة ورقم الوحدة أو الطبيب من عناوين الشيت');
+      }
+      const get = (row, field) => indices[field] === undefined ? '' : cleanCell(row[indices[field]]);
+      const seen = new Set();
+      const output = currentRows.map((row, index) => {
+        if (!Array.isArray(row)) return null;
+        const name = get(row, 'name');
+        const unit = get(row, 'unit').toUpperCase();
+        const doctor = get(row, 'doctor');
+        if (!name || (!unit && !doctor)) return null;
+        const stableKey = unit || `${name}|${doctor}|${index}`;
+        const duplicateKey = `${stableKey}|${name}|${doctor}`;
+        if (seen.has(duplicateKey)) return null;
+        seen.add(duplicateKey);
+        const previous = fallbackByUnit.get(unit);
+        const specialty = get(row, 'specialty');
+        const category = get(row, 'category') ||
+          (previous && specialty === previous.specialty ? previous.category : inferCategory(specialty));
+        const rawPhone = get(row, 'rawPhone');
+        const phones = phoneNumbers(rawPhone);
+        return {
+          id: previous ? previous.id : stableId(stableKey),
+          num: get(row, 'num') || String(index + 1),
+          phase: inferPhase(get(row, 'phase'), unit),
+          name, doctor, specialty, category, unit,
+          timing: get(row, 'timing') || 'المواعيد غير متاحة حاليًا',
+          rawPhone: rawPhone || 'حجز مسبق',
+          phaseEn: get(row,'phaseEn'), nameEn: get(row,'nameEn'),
+          doctorEn: get(row,'doctorEn'), specialtyEn: get(row,'specialtyEn'),
+          timingEn: get(row,'timingEn'), bookingEn: get(row,'bookingEn'),
+          phones
+        };
+      }).filter(Boolean);
+      if (!output.length) throw new Error('الشيت لا يحتوي على صفوف عيادات قابلة للعرض');
+      return output;
+    }
+    function recordsFromResponse(payload) {
+      if (payload && payload.ok !== false &&
+          (Number(payload.gid) !== Number(OZONE_SHEET.gid) ||
+           payload.spreadsheetId !== OZONE_SHEET.spreadsheetId)) {
+        throw new Error('يجب تحديث Apps Script إلى كود التبويب 1001 ثم إعادة نشر نسخة جديدة');
+      }
+      if (!payload || payload.status === 'error' || payload.ok === false) {
+        const message = payload && payload.errors && payload.errors[0] && payload.errors[0].detailed_message;
+        throw new Error(message || payload?.error || 'Google Sheets لم يُرجع بيانات صالحة');
+      }
+      if (payload.table && Array.isArray(payload.table.rows)) {
+        const headers = (payload.table.cols || []).map(col => col?.label || col?.id || '');
+        const rows = payload.table.rows.map(row => (row.c || []).map(cell => {
+          if (!cell) return '';
+          return cleanCell(cell.f !== undefined ? cell.f : cell.v);
+        }));
+        return normalizeSheetRecords(headers, rows);
+      }
+      if (Array.isArray(payload.headers) && Array.isArray(payload.rows)) {
+        return normalizeSheetRecords(payload.headers, payload.rows);
+      }
+      if (Array.isArray(payload.records) && payload.records.length) {
+        const headers = Object.keys(payload.records[0]);
+        return normalizeSheetRecords(headers, payload.records.map(record => headers.map(key => record[key])));
+      }
+      throw new Error('استجابة غير متوقعة من الشيت');
+    }
+    function updateSyncStatus() {
+      const badge = document.getElementById('ozoneLiveBadge');
+      if (badge) {
+        if (sheetState.loading) {
+          badge.textContent = lang('جارٍ الاتصال…','Connecting…');
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-slate-100 text-slate-700';
+        } else if (sheetState.source === 'live') {
+          badge.textContent = lang('متصل بالشيت','Sheet Connected');
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-emerald-100 text-emerald-800';
+        } else {
+          badge.textContent = lang('غير متصل بالشيت','Sheet Offline');
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-amber-100 text-amber-800';
+        }
+      }
+      if (!syncStatusElement) return;
+      if (sheetState.loading) {
+        syncStatusElement.textContent = lang('جارٍ فحص تحديثات Google Sheets…','Checking Google Sheets updates…');
+        syncStatusElement.className = 'text-xs font-bold text-slate-500';
+      } else if (sheetState.source === 'live') {
+        const time = sheetState.lastUpdated ? ` · ${new Date(sheetState.lastUpdated).toLocaleTimeString('en-GB-u-nu-latn', {hour:'2-digit',minute:'2-digit'})}` : '';
+        syncStatusElement.textContent = `${lang('● متصل بشيت جوجل','● Connected to Google Sheets')}${time}`;
+        syncStatusElement.className = 'text-xs font-bold text-emerald-700';
+      } else {
+        const cause = sheetState.error ? ` (${lang('السبب: ','Reason: ')}${sheetState.error.slice(0, 150)})` : '';
+        syncStatusElement.textContent = `${lang('● تعذر تحميل بيانات الصفحة المطلوبة','● Could not load selected sheet data')}${cause}`;
+        syncStatusElement.title = sheetState.error || lang('تأكد من صلاحيات الشيت ورابط الربط وأسماء الأعمدة','Check sheet permissions, deployment URL, and column headers');
+        syncStatusElement.className = 'text-xs font-bold text-amber-700';
+      }
+      if (syncRefreshElement) syncRefreshElement.disabled = sheetState.loading;
+    }
+    function updateClinicCount() {
+      if (heroClinicsCountElement) heroClinicsCountElement.textContent = ALL_CLINICS.length.toLocaleString('en-US-u-nu-latn');
+      if (headerClinicCountElement) headerClinicCountElement.textContent = ALL_CLINICS.length.toLocaleString('en-US-u-nu-latn');
+      const phaseCounter = document.getElementById('heroPhaseCount');
+      const specialtyCounter = document.getElementById('heroSpecialtiesCount');
+      if (phaseCounter) phaseCounter.textContent = new Set(ALL_CLINICS.map(c => c.phase).filter(Boolean)).size.toLocaleString('en-US-u-nu-latn');
+      if (specialtyCounter) specialtyCounter.textContent = Number.isInteger(sheetState.specialtyCount) && sheetState.specialtyCount > 0 ? sheetState.specialtyCount.toLocaleString('en-US-u-nu-latn') : '—';
+    }
+    function applySheetData(clinics, source, specialtyCount = null) {
+      sheetState.specialtyCount = Number.isInteger(specialtyCount) && specialtyCount > 0 ? specialtyCount : null;
+      clinics = clinics.map(englishDigitsInClinic);
+      ALL_CLINICS = clinics;
+      sheetState.source = source;
+      sheetState.lastUpdated = Date.now();
+      sheetState.error = '';
+      const categorySet = new Set(clinics.map(clinic => clinic.category).filter(Boolean));
+      CATEGORIES = ['الكل', ...originalCategoryOrder.filter(x => x !== 'الكل' && categorySet.has(x)),
+        ...[...categorySet].filter(x => !originalCategoryOrder.includes(x)).sort((a,b) => a.localeCompare(b,'ar'))];
+      if (!CATEGORIES.includes(currentCategory)) currentCategory = 'الكل';
+      renderCategoryPills();
+      updateClinicCount();
+      renderClinics();
+    }
+    function loadCachedSheet() {
+      try {
+        const cache = JSON.parse(localStorage.getItem('ozone_sheet_cache_gid1001_v9') || 'null');
+        if (cache && Array.isArray(cache.clinics) && cache.clinics.length) {
+          applySheetData(cache.clinics, 'cache', Number(cache.specialtyCount) || null);
+        }
+      } catch (e) { console.warn('Sheet cache unavailable', e); }
+    }
+    function finishSheetRequest(requestId, error) {
+      if (requestId !== sheetRequestId) return;
+      clearTimeout(sheetRequestTimeout);
+      sheetRequestTimeout = null;
+      if (sheetRequestScript) {
+        sheetRequestScript.remove();
+        sheetRequestScript = null;
+      }
+      sheetState.loading = false;
+      if (error) {
+        sheetState.error = cleanCell(error.message || error);
+        sheetState.source = ALL_CLINICS.length ? 'cache' : 'none';
+        console.warn('تعذّر تحديث الشيت:', sheetState.error);
+      }
+      updateSyncStatus();
+    }
+    function refreshGoogleSheet(manual = false) {
+      if (sheetState.loading) return;
+      sheetState.loading = true;
+      updateSyncStatus();
+      const requestId = ++sheetRequestId;
+      const url = OZONE_SHEET.webAppUrl.trim()
+        ? new URL(OZONE_SHEET.webAppUrl)
+        : new URL(`https://docs.google.com/spreadsheets/d/${OZONE_SHEET.spreadsheetId}/gviz/tq`);
+      if (OZONE_SHEET.webAppUrl.trim()) {
+        url.searchParams.set('callback', 'ozoneSheetReceive');
+      } else {
+        url.searchParams.set('gid', OZONE_SHEET.gid);
+        url.searchParams.set('headers', '1');
+        url.searchParams.set('tqx', 'out:json;responseHandler:ozoneSheetReceive');
+      }
+      url.searchParams.set('_', Date.now().toString());
+      window.ozoneSheetReceive = function(payload) {
+        if (requestId !== sheetRequestId) return;
+        try {
+          const clinics = recordsFromResponse(payload);
+          const statsValue = payload && payload.stats && payload.stats.specialties;
+          const specialtyCount = statsValue != null && /^\d+$/.test(String(statsValue)) && Number(statsValue) > 0 ? Number(statsValue) : null;
+          applySheetData(clinics, 'live', specialtyCount);
+          try { localStorage.setItem('ozone_sheet_cache_gid1001_v9', JSON.stringify({savedAt:Date.now(), clinics, specialtyCount})); } catch (e) {}
+          finishSheetRequest(requestId);
+          if (manual) showToast(`تم تحديث بيانات ${clinics.length} عيادة من جوجل شيت`);
+        } catch (error) {
+          finishSheetRequest(requestId, error);
+          if (manual) showToast('تعذّر تحميل بيانات التبويب 1001، راجع حالة الاتصال');
+        }
+      };
+      sheetRequestScript = document.createElement('script');
+      sheetRequestScript.async = true;
+      sheetRequestScript.src = url.toString();
+      sheetRequestScript.onerror = () => {
+        finishSheetRequest(requestId, new Error('تعذّر تحميل استجابة جوجل؛ تحقق من الإتاحة العامة أو رابط Apps Script'));
+        if (manual) showToast('تعذر الاتصال بشيت جوجل؛ راجع صلاحيات الوصول');
+      };
+      // Some Google access-denied/login responses load as scripts but never call the JSONP handler.
+      sheetRequestScript.onload = () => {
+        if (sheetState.loading && requestId === sheetRequestId) {
+          finishSheetRequest(requestId, new Error('جوجل لم يُرجع بيانات قابلة للقراءة؛ قد يكون الشيت خاصًا أو الرابط غير منشور'));
+          if (manual) showToast('لم يرجع الشيت بيانات؛ تحقق من المشاركة أو رابط Apps Script');
+        }
+      };
+      sheetRequestTimeout = setTimeout(() => {
+        finishSheetRequest(requestId, new Error('انتهت مهلة الاتصال'));
+        if (manual) showToast('انتهت مهلة الاتصال بشيت جوجل');
+      }, 15000);
+      document.head.appendChild(sheetRequestScript);
+    }
+    updateClinicCount();
+    loadCachedSheet();
+    updateSyncStatus();
+    if (syncRefreshElement) syncRefreshElement.addEventListener('click', () => refreshGoogleSheet(true));
+    refreshGoogleSheet();
+    setInterval(() => { if (!document.hidden) refreshGoogleSheet(); }, OZONE_SHEET.refreshEveryMs);
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden && !sheetState.loading && (!sheetState.lastUpdated || Date.now() - sheetState.lastUpdated > OZONE_SHEET.refreshEveryMs)) refreshGoogleSheet();
+    });
+    // --- End Google Sheets integration ---
+
+  
+    const languageToggleButton = document.getElementById('languageToggleBtn');
+    if (languageToggleButton) languageToggleButton.addEventListener('click', () => setUILanguage(uiLang === 'ar' ? 'en' : 'ar'));
+    setUILanguage(uiLang);
+</script>
+</body></html>
